@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="author" content="Tomochika Hara">
+  <title>Railway - thara's garden</title>
+  <link rel="stylesheet" type="text/css" href="../css/neat.css">
+  <link rel="stylesheet" type="text/css" href="../css/custom.css">
+  <meta name="Hatena::Bookmark" content="nocomment" />
+  <link rel="author" href="http://www.hatena.ne.jp/zetta1985/" />
+  <style type="text/css">
+        .highlight table td { padding: 5px; }
+.highlight table pre { margin: 0; }
+.highlight, .highlight .w {
+  color: #24292f;
+  background-color: #f6f8fa;
+}
+.highlight .k, .highlight .kd, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kt, .highlight .kv {
+  color: #cf222e;
+}
+.highlight .gr {
+  color: #f6f8fa;
+}
+.highlight .gd {
+  color: #82071e;
+  background-color: #ffebe9;
+}
+.highlight .nb {
+  color: #953800;
+}
+.highlight .nc {
+  color: #953800;
+}
+.highlight .no {
+  color: #953800;
+}
+.highlight .nn {
+  color: #953800;
+}
+.highlight .sr {
+  color: #116329;
+}
+.highlight .na {
+  color: #116329;
+}
+.highlight .nt {
+  color: #116329;
+}
+.highlight .gi {
+  color: #116329;
+  background-color: #dafbe1;
+}
+.highlight .ges {
+  font-weight: bold;
+  font-style: italic;
+}
+.highlight .kc {
+  color: #0550ae;
+}
+.highlight .l, .highlight .ld, .highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, .highlight .mo, .highlight .mx {
+  color: #0550ae;
+}
+.highlight .sb {
+  color: #0550ae;
+}
+.highlight .bp {
+  color: #0550ae;
+}
+.highlight .ne {
+  color: #0550ae;
+}
+.highlight .nl {
+  color: #0550ae;
+}
+.highlight .py {
+  color: #0550ae;
+}
+.highlight .nv, .highlight .vc, .highlight .vg, .highlight .vi, .highlight .vm {
+  color: #0550ae;
+}
+.highlight .o, .highlight .ow {
+  color: #0550ae;
+}
+.highlight .gh {
+  color: #0550ae;
+  font-weight: bold;
+}
+.highlight .gu {
+  color: #0550ae;
+  font-weight: bold;
+}
+.highlight .s, .highlight .sa, .highlight .sc, .highlight .dl, .highlight .sd, .highlight .s2, .highlight .se, .highlight .sh, .highlight .sx, .highlight .s1, .highlight .ss {
+  color: #0a3069;
+}
+.highlight .nd {
+  color: #8250df;
+}
+.highlight .nf, .highlight .fm {
+  color: #8250df;
+}
+.highlight .err {
+  color: #f6f8fa;
+  background-color: #82071e;
+}
+.highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cp, .highlight .cpf, .highlight .c1, .highlight .cs {
+  color: #6e7781;
+}
+.highlight .gl {
+  color: #6e7781;
+}
+.highlight .gt {
+  color: #6e7781;
+}
+.highlight .ni {
+  color: #24292f;
+}
+.highlight .si {
+  color: #24292f;
+}
+.highlight .ge {
+  color: #24292f;
+  font-style: italic;
+}
+.highlight .gs {
+  color: #24292f;
+  font-weight: bold;
+}
+      </style>
+</head>
+<body>
+  <header>
+    <h1>Railway</h1>
+  </header>
+  <p>アプリケーションのデプロイに特化したクラウドプラットフォーム。
+Herokuの代替。</p>
+<h2>
+<a id="platform-engineer" class="anchor" href="#platform-engineer" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://railway.app/careers/infra-platform">Platform Engineer</a>
+</h2>
+<p>(2024-09現在は Senior Infrastructure Engineer というポジションに変わっていた)</p>
+<blockquote>
+<p>Our core mission at Railway is to make software engineers higher leverage. We believe that people should be given powerful tools so that they can spend less time setting up to do, and more time doing.
+Building the infrastructure which powers the Railway engine is the most core problem at Railway. As a platform engineer, you will be directly responsible for exposing the knobs, bells, and whistles that allow the users to build to the wildest dreams. The tools you build will be instrumental in not only scaling internal operations, but scaling the company to infinite and beyond!
+“But the world would be a better place if more engineers, like me, hated technology. The stuff I design, if I'm successful, nobody will ever notice. Things will just work, and will be self-managing”</p>
+<ul>
+<li>Radia Perlman</li>
+</ul>
+<h3>
+<a id="about-the-role" class="anchor" href="#about-the-role" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>About The Role</h3>
+<p>For this role, you will:</p>
+<ul>
+<li>Build Golang GRPC services from scratch capable of supporting tens of thousands of users, and the million+ to come.</li>
+<li>Define infrastructure that can be torn down, failed over, and reconstituted from scratch using principle of immutable infrastructure using Terraform and Ansible.</li>
+<li>Write Engineering Requirement Documents to take something from idea, to defined tasks, to implementation, to monitoring it’s success.</li>
+<li>Interface with our TypeScript and GraphQL edge to expose your microservice APIs for both internal and potentially external consumption</li>
+</ul>
+<p>This is a high impact, high agency role with direct effect on company culture, trajectory, and outcome.</p>
+<h3>
+<a id="about-you" class="anchor" href="#about-you" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>About You</h3>
+<ul>
+<li>A strong understanding of distributed systems. You enjoy building fault tolerant, resilient, and scalable services</li>
+<li>A solid intuition about how long your solutions will last. All systems age. In startups, we can hope for 2-3 orders of magnitude, or 12-18mo.</li>
+<li>The tact to implement your solution, creator monitors for it’s error boundaries, and document any requirements for when you’re not around</li>
+<li>A great sense of direction and prioritization when it comes to dealing with the ambiguity of an early stage startup</li>
+<li>A sense of grit to dive into a problem, implement a solution, scale that solution, and replace it when needed</li>
+<li>A great set of communication skills for getting your point across, solution implemented, and beyond</li>
+</ul>
+<p>We value and love to work with diverse persons from all backgrounds</p>
+<h3>
+<a id="things-to-know" class="anchor" href="#things-to-know" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Things to Know</h3>
+<p>For better or worse, we're a startup; our team dynamics are different from companies of different sizes and stages.</p>
+<ul>
+<li>We're distributed ALL across the globe, and that's only going to be more and more distributed. As a result, stuff is ALWAYS happening.</li>
+<li>We do NOT expect you to work all the time, but you'll have to be diligent about your boundaries because the end of your day may overlap with the start of someone else's.</li>
+<li>We're a small team, with high ownership, who are not only passionate about what we do, but seek to be exceptional as well. At the time of writing we're 7, serving tens of thousands of users. There's a lot of stuff going on, and a lot of ambiguity.</li>
+<li>We want you to own it. We believe that ownership is a key to growth, and part of that growth is not only being able to make the choices, but owning the success, or failure, that comes with those choices.</li>
+</ul>
+</blockquote>
+<p>スタートアップを特に強調。
+Goを活用したPaaS開発は楽しそう。
+Webフロントエンドの知識も求められているのは、管理コンソールの開発にも携わる可能性があるからか。</p>
+
+<footer>
+  <small>
+    Page created on 11 Sep 2024
+    | &copy; 2024 Tomochika Hara
+  </small>
+</footer>
+</body>
+</html>
