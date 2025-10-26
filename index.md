@@ -6,3 +6,4 @@
 - [vimwiki](vimwiki.md)
 - [Plain Text](plain-text.md)
 - [気になるJob Description](job-description.md)
+- [YouTube playlist](youtube-playlist.md)
