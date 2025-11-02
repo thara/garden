@@ -119,6 +119,8 @@ YouTubeでsubscribeするとついダラダラ見てしまうので、subscribe�
 
 - [Somen Channel - YouTube](https://www.youtube.com/@Somen-Channel)
 - [凪/Nagi-ゲーム実況 - YouTube](https://www.youtube.com/@Nagi7171)
+- [鍵山厄人 - Yackt Channel - - YouTube](https://www.youtube.com/@Yackt_Kagiyama)
+- [Ange アンジェ - YouTube](https://www.youtube.com/@Ange_Eula/videos)
 
 ## News
 
