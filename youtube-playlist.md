@@ -96,6 +96,7 @@ YouTubeでsubscribeするとついダラダラ見てしまうので、subscribe�
 - [アンジュ・カトリーナ - Ange Katrina - - YouTube](https://www.youtube.com/@AngeKatrina)
 - [白波らむね / Shiranami Ramune - YouTube](https://www.youtube.com/@shiranamiramune)
 - [栞葉るり / Shioriha Ruri【にじさんじ】 - YouTube](https://www.youtube.com/@ShiorihaRuri)
+- [ホロライブ切り抜き/なめたけ - YouTube](https://www.youtube.com/channel/UCUbAVVpHteGtGQPPN9lM3oQ)
 - [リコーダー【音乃瀬奏切り抜きチャンネル】 - YouTube](https://www.youtube.com/@recorder-kirinuki)
 
 ## Game
@@ -120,7 +121,6 @@ YouTubeでsubscribeするとついダラダラ見てしまうので、subscribe�
 - [Somen Channel - YouTube](https://www.youtube.com/@Somen-Channel)
 - [凪/Nagi-ゲーム実況 - YouTube](https://www.youtube.com/@Nagi7171)
 - [鍵山厄人 - Yackt Channel - - YouTube](https://www.youtube.com/@Yackt_Kagiyama)
-- [Ange アンジェ - YouTube](https://www.youtube.com/@Ange_Eula/videos)
 
 ## News
 
