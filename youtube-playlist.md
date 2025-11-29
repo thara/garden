@@ -106,7 +106,6 @@ YouTubeでsubscribeするとついダラダラ見てしまうので、subscribe�
 - [崩壊：スターレイル - YouTube](https://www.youtube.com/@Houkaistarrail_jp)
 - [ボビー - YouTube](https://www.youtube.com/@Bobbych)
 - [【公認】ボビーの切り抜きチャンネル - YouTube](https://www.youtube.com/@bobikirinuki)
-- [ボビーのスタレ相談室【切り抜き】 - YouTube](https://www.youtube.com/@%E3%83%9C%E3%83%93%E3%83%BC%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%AC%E7%9B%B8%E8%AB%87%E5%AE%A4)
 
 ### ZZZ
 
@@ -115,6 +114,7 @@ YouTubeでsubscribeするとついダラダラ見てしまうので、subscribe�
 - [こへー / 古兵 - YouTube](https://www.youtube.com/@coheee)
 - [フクー - YouTube](https://www.youtube.com/@huku-DAYO.HiyaAHAAAAAA)
 - [えふ【ゼンレスゾーンゼロ解説チャンネル】 - YouTube](https://www.youtube.com/@efu-games)
+- [柳【やなぎのゲーム攻略ch】 - YouTube](https://www.youtube.com/@genshinzundamon/videos)
 
 ### 原神
 
