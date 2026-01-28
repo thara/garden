@@ -13,3 +13,7 @@
 - [進化ミッドレンジ + ミルティオ](https://shadowverse-wb.com/web/Deck/share?hash=2.5.cYb6.cYb6.cYb6.cl1-.cl1-.cl1-.d6jm.d6jm.d6jm.d6mk.d6mk.d6mk.d7Cs.d7Cs.d7Se.d7Se.d7Se.dJfu.dJfu.dVNk.dVNk.dVNk.dhqc.dhqc.dhqm.dhqm.dhqm.di4E.di4E.du1s.du1s.du1s.duHU.duHU.duHU.eGCk.eGCk.eGCk.eGh-.eGh-&lang=ja)
   - [【シャドバWB】今ナイトメアで勝ちたい人はこれを使え！『ミルティオ』入り進化ミッドメアの弱点を解決する『ラウラ』採用型『進化ミッドレンジナイトメア』がマジでオススメです - YouTube](https://www.youtube.com/watch?v=O06tuBeJ3ew)
   - ケル超進化時のおしゃかぼちゃがうざい
+
+
+- [進化ミッドレンジ](https://shadowverse-wb.com/ja/deck/detail/?hash=2.5.dhqm.dhqm.dhqm.ckYk.ckYk.ckYk.d6mk.d6mk.d6mk.dJfu.dJfu.dJfu.d6zE.d6zE.d6zE.eGCk.eGCk.dhqc.dhqc.dhqc.ckog.ckog.dVNk.dVNk.dVNk.cl2I.dVdM.di4E.di4E.d6zO.d6zO.d6zO.du1s.du1s.duHU.duHU.duHU.cl1-.cl1-.cl1-)
+    - [【シャドバWB】前期最終ナイトレート１位！2256！対応力と破壊力を両方とも組み合わせた最高の構成！進化ミッドレンジナイトメア紹介&マリガン説明！！ - YouTube](https://www.youtube.com/watch?v=amd63sBXaDQ)
