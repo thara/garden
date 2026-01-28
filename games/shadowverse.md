@@ -17,3 +17,4 @@
 
 - [進化ミッドレンジ](https://shadowverse-wb.com/ja/deck/detail/?hash=2.5.dhqm.dhqm.dhqm.ckYk.ckYk.ckYk.d6mk.d6mk.d6mk.dJfu.dJfu.dJfu.d6zE.d6zE.d6zE.eGCk.eGCk.dhqc.dhqc.dhqc.ckog.ckog.dVNk.dVNk.dVNk.cl2I.dVdM.di4E.di4E.d6zO.d6zO.d6zO.du1s.du1s.duHU.duHU.duHU.cl1-.cl1-.cl1-)
     - [【シャドバWB】前期最終ナイトレート１位！2256！対応力と破壊力を両方とも組み合わせた最高の構成！進化ミッドレンジナイトメア紹介&マリガン説明！！ - YouTube](https://www.youtube.com/watch?v=amd63sBXaDQ)
+    - じっくり戦っていく感じ
