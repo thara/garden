@@ -35,7 +35,8 @@
 - [サイボウズ](cybozu.md)
 - [TOPPAN](toppan.md)
 - [Serverpod](job-description/serverpod)
--   - https://careers.serverpod.dev/jobs/3222070-senior-dart-flutter-developer
+  - https://careers.serverpod.dev/jobs/3222070-senior-dart-flutter-developer
+- [GMO Flatt Security](job-description/gmo_flatt_security.md)
 
 - Render
 - Fly.io
