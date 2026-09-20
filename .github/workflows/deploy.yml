@@ -21,7 +21,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5.0.0
       - name: Build
-        uses: konstfish/quartz-build-action@f15402f8aff68dd71509a6ef889c81fbaee531f5 # v6
+        uses: konstfish/quartz-build-action@90deba2e46e844e315c283da46ede5f464a2d202 # v7
         with:
           source: "./"
           page_title: "thara's Garden"
