@@ -36,3 +36,7 @@ Desktop app
     - [gcc](https://gcc.gnu.org/contribute.html)
     - [clang](https://clang.llvm.org/)
     - [glibc](https://www.gnu.org/savannah-checkouts/gnu/libc/index.html)
+
+## misc
+
+- [Craig — Multi-track Voice Channel Recording Bot for Discord](https://craig.chat/)
