@@ -7,6 +7,10 @@
 - [AI Model & API Providers Analysis | Artificial Analysis](https://artificialanalysis.ai)
 - [OpenRouter](https://openrouter.ai)
 
+## Thought
+
+- [The Future of Everything is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety)
+
 ---
 
 TODO
