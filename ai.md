@@ -6,3 +6,9 @@
 
 - [AI Model & API Providers Analysis | Artificial Analysis](https://artificialanalysis.ai)
 - [OpenRouter](https://openrouter.ai)
+
+---
+
+TODO
+
+- [\[2608.10509\] MAP-Graph: Provenance-Aware Shared Memory for Multi-Agent Workflows](https://arxiv.org/abs/2608.10509)
