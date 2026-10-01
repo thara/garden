@@ -1,6 +1,7 @@
 # AI
 
 - [AIエージェントの推論プロセスを読み解く：OpenCodeのコードリーディングから](https://zenn.dev/tsurubee/articles/ai-agent-reasoning-from-opencode)
+- [10 億人超の ChatGPT ユーザーを支えるオンラインストレージの急速な拡張 | OpenAI](https://openai.com/ja-JP/index/scaling-storage-one-billion-users-part-one/)
 
 ## models
 
