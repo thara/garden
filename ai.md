@@ -7,6 +7,10 @@
 - [AI Model & API Providers Analysis | Artificial Analysis](https://artificialanalysis.ai)
 - [OpenRouter](https://openrouter.ai)
 
+## 関連
+
+- [Announcing Cloudflare Wallets: The programmable wallet for the agentic Internet | Cloudflare Blog](https://blog.cloudflare.com/wallets/)
+
 ---
 
 TODO
