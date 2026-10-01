@@ -47,7 +47,9 @@
 
 ## 関連
 
-- [Lean proved this program was correct; then I found a bug.](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
+- [Lean proved this program was correct; then I found a bug.](https://kirancodes.me/posts/log-who-watches-the-watchers.html
+- [The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/)
+- [The Future of Everything is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety)
 
 ## TODO
 
