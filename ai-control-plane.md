@@ -45,6 +45,9 @@
 - [AIエージェントの最適解：「Control Plane」と階層型アーキテクチャが切り拓く未来｜Chang | AI Solution Architect](https://note.com/wayne_chang/n/n6ed7ba1f645c)
 - [\[2505.06817\] Control Plane as a Tool: A Scalable Design Pattern for Agentic AI Systems](https://arxiv.org/abs/2505.06817)
 
+## 関連
+
+- [Lean proved this program was correct; then I found a bug.](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
 
 ## TODO
 
