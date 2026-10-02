@@ -17,3 +17,4 @@
 - [データサイエンスのための統計学入門 第2版 - O'Reilly Japan](https://www.oreilly.co.jp/books/9784873119267)
 
 - [Design It! - O'Reilly Japan](https://www.oreilly.co.jp//books/9784873118956/)
+- [マルチテナントSaaSアーキテクチャの構築 - O'Reilly Japan](https://www.oreilly.co.jp/books/9784814401017/)
