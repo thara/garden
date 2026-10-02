@@ -15,3 +15,5 @@
 - [材料科学・材料工学 基礎から応用まで - 株式会社東京化学同人](https://www.tkd-pbl.com/book/b103804.html)
 
 - [データサイエンスのための統計学入門 第2版 - O'Reilly Japan](https://www.oreilly.co.jp/books/9784873119267)
+
+- [Design It! - O'Reilly Japan](https://www.oreilly.co.jp//books/9784873118956/)
