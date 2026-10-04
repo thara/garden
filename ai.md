@@ -16,6 +16,7 @@
 
 - [Announcing Cloudflare Wallets: The programmable wallet for the agentic Internet | Cloudflare Blog](https://blog.cloudflare.com/wallets/)
 - [Domain Expertise Has Always Been the Real Moat | Aaron Brethorst](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
+- [Building AI Products—Part I: Back-end Architecture](https://philcalcado.com/2024/12/14/building-ai-products-part-i.html)
 
 ---
 
