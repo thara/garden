@@ -298,7 +298,12 @@
     - [Addendum to GPT-6 Astra System Card: GPT-6.1 Sol - OpenAI Deployment Safety Hub](https://deploymentsafety.openai.com/gpt-6-1-sol/respecting-auto-review)
 - Anthropic、IPO文書で「自律Agentの法的責任」をriskとして明記
     - [EXCLUSIVE: Anthropic says rogue AI agents pose uncertain legal risk for the company | Reuters](https://www.reuters.com/legal/litigation/anthropic-says-rogue-ai-agents-pose-uncertain-legal-risk-company-2026-09-29/)
-- 
+- 米議員が Human Control Over AI Act を提出する方針
+    - [Ro Khanna plans a bill to ban self-improving AI, CNBC reports](https://thenextweb.com/news/human-control-over-ai-act-khanna-self-improving-ai)
+    - 再帰的自己改善や、AIが自ら 主目的 / 封じ込め / シャットダウン制御 を変更することを、連邦の安全基準と承認制度ができるまで禁止
+    - フロンティアモデル向けの連邦機関を設け、training/deploymentのライセンス、継続的テスト、フロンティアモデルへの監査、各ラボに常駐する独立監査人まで要求する構想
+    - 安全基準の対象: sandbox testing / air gap / kill switch / containment / continuous testing / human control
+    - safeguard・kill switch・logging・containment systemを意図的に無効化する行為への罰則まで盛り込む
 
 ## 2026-09-28
 
