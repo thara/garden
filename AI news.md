@@ -2,6 +2,109 @@
 
 気になったやつだけ
 
+## 2026-10-15
+
+- シンガポール、Agentの行動過程を評価するSafety Testing Kitを公開
+    - [Singapore launches toolkit to help firms test AI agents | The Straits Times](https://www.straitstimes.com/singapore/singapore-launches-new-tool-kit-to-help-firms-test-ai-agents-for-safety-and-reliability)
+    - [Resources – AI Verify Foundation](https://aiverifyfoundation.sg/resources/)
+- 米8州、OpenAIを一斉提訴。AIの安全性を消費者保護法で追及
+    - [Attorney General Hilgers Announces Lawsuit against OpenAI for Deceiving Nebraskans about the Safety of ChatGPT | Nebraska Attorney General Mike Hilgers](https://ago.nebraska.gov/news/attorney-general-hilgers-announces-lawsuit-against-openai-deceiving-nebraskans-about-safety)
+    - [Eight US states sue OpenAI, claiming ChatGPT harms young users | Reuters](https://www.reuters.com/world/eight-us-states-sue-openai-claiming-chatgpt-harms-children-2026-10-14/)
+- 英議会、AI安全性・ガバナンスに関する長期調査を正式開始
+    - [House of Commons Committee opens major new inquiry into AI security risks - Committees - UK Parliament](https://committees.parliament.uk/committee/365/business-innovation-science-and-trade-committee/news/218156/house-of-commons-committee-opens-major-new-inquiry-into-ai-security-risks/)
+    - [13 October 2026 - AI adoption, safety and governance - Oral evidence - Committees - UK Parliament](https://committees.parliament.uk/event/28282/formal-meeting-oral-evidence-session/)
+- NVIDIA、英国のAgentic AI安全性研究へ2億5000万ドル相当の計算資源を提供
+    - 研究分野: Secure Agents、Open-model Security、Sandbox、Reproducible Research、Safety Assessment Benchmarks
+    - [NVIDIA Corporation - NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the Next Five Years](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Commits-250-Million-to-Advance-UK-Agentic-Safety-and-Security-Research-Over-the-Next-Five-Years/default.aspx)
+- Google DeepMindのHassabis、AI安全性の「動的な認証制度」を提唱
+    - [Google Deepmind's Hassabis calls AI hacks 'early warning shots' | Reuters](https://www.reuters.com/legal/litigation/google-deepminds-hassabis-calls-ai-hacks-early-warning-shots-2026-10-14/)
+
+## 2026-10-14
+
+- 406人の科学者、AIの封じ込め基準を策定する国際機関の設立を提言
+    - [October 2026 Open Letter from the Scientific Community on AI and Cybersecurity](https://ai-security-letter.org/)
+- Anthropic、AIがデータセンターなしで自己複製できる可能性を実験的に検証
+    - [AI models may be capable of self-replicating without access to a datacenter \ Anthropic](https://www.anthropic.com/research/self-replicating-ai)
+- OpenAI・Anthropic、第三者安全評価の「公開権限」を巡って交渉
+    - [EXCLUSIVE: Behind AI industry's call for independent reviews, a fight over what gets made public | Reuters](https://www.reuters.com/world/behind-ai-industrys-call-independent-reviews-fight-over-what-gets-made-public-2026-10-13/)
+- 米欧の銀行監督当局、Agentic AIの制御・監査・停止能力を調査
+    - [EXCLUSIVE: Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say | Reuters](https://www.reuters.com/legal/litigation/banking-watchdogs-ramp-up-ai-scrutiny-stability-fears-mount-sources-say-2026-10-13/)
+- 米議員、航空管制支援AIの利用停止を要求。独立した安全評価の不足を問題視
+    - [Ocasio-Cortez, McClain Delaney, Beyer, Mfume, Subramanyam, and Elfreth Lead Calls to Pause FAA’s AI Tool at Washington-Area Airports | Representative Ocasio-Cortez](https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-mcclain-delaney-beyer-mfume-subramanyam-and-elfreth-lead-calls)
+
+## 2026-10-13
+
+- 英政府、Agentic AI専用の重大インシデント対応体制を構築へ
+    - [Britain steps up national defences against growing AI risks - GOV.UK](https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks?utm_source=chatgpt.com)
+    - [Written statements - Written questions, answers and statements - UK Parliament](https://questions-statements.parliament.uk/written-statements/detail/2026-10-12/hcws357)
+- GitHub、Commitの実際のPush実行者を認証済みIdentityとして記録
+    - [Push attribution for commits in limited public preview - GitHub Changelog](https://github.blog/changelog/2026-10-12-push-attribution-public-preview/)
+- GitHub Copilot、OSレベルでAgentの操作を制限するLocal Sandboxが正式提供
+    - [Local sandboxing for GitHub Copilot now generally available - GitHub Changelog](https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available/)
+- Microsoft副会長、独立評価・事故報告・緊急停止を法的義務にすべきと提言
+    - [Microsoft president says milk faces more regulation than AI | Reuters](https://www.reuters.com/legal/litigation/microsoft-president-says-milk-faces-more-regulation-than-ai-2026-10-12/)
+- 論文「Sapien」：Agentの操作履歴を考慮するStateful Policy Engine
+    - [\[2610.00797\] Sapien: A Stateful Policy Engine for Autonomous AI Agents](https://arxiv.org/abs/2610.00797)
+
+## 2026-10-12
+
+- Microsoft CEO、AIを「潜在的な内部脅威」として扱う統制アーキテクチャを提唱
+    - [Satya Nadella: 「Models as Insider Risks in the Super Intelligence Era 」 / X](https://x.com/satyanadella/status/2108931348857827686)
+    - [Microsoft’s Satya Nadella says AI models need an ‘emergency brake’ | TechCrunch](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/)
+- 英政府、AI企業の自主規制だけに依存しない安全保障体制を強調へ
+    - [UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts | AI (artificial intelligence) | The Guardian](https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety)
+- BGVD-State：Agent間の引き継ぎを、証拠に基づいて決定論的に制御するOSS
+    - [BGVD-State: Replayable middleware for evidence-gated handoffs in third-party software security review - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S235271102600600X?via%3Dihub)
+    - [New Middleware Keeps AI Security Reviews Honest With Evidence-Gated](https://bioengineer.org/new-middleware-keeps-ai-security-reviews-honest-with-evidence-gated-handoffs/)
+- TCS、企業内の複数AI Agentを統制するControl Planeを構築
+    - [TCS bets on governance layer to scale enterprise AI - Business News | The Financial Express](https://www.financialexpress.com/business/news/tcs-bets-on-governance-layer-to-scale-enterprise-ai/4358841/)
+
+## 2026-10-11
+
+- 英ICO、Agentic AIのデータ保護規制に向けた意見募集を開始
+    - 規制対象がモデルの学習データからAgentの実行時のデータ処理に拡大
+    - [ICO secures changes from leading AI developers as scrutiny extends to AI agents | ICO](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/)
+    - [Agentic AI call for evidence | ICO](https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/2026/10/agentic-ai-call-for-evidence/)
+- EU、「既存のAI ActでRogue Agentに対処できる」と表明
+    - [EU tech chief says bloc 'well equipped' to fend off rogue AI risk | Reuters](https://www.reuters.com/world/eu-tech-chief-says-bloc-well-equipped-fend-off-rogue-ai-risk-2026-10-09/)
+- 独立安全性評価、134モデル中132モデルで危険な回答を確認
+    - [Test shows AI models likely to give advice for terrorist attacks | The National](https://www.thenationalnews.com/news/uk/2026/10/09/test-show-ai-models-likely-to-give-terrorist-advice/)
+    - [CT-AI Benchmark: second edition coming soon | Tech Against Terrorism](https://www.ct-ai.org/)
+- 医療AI「AMIE」、実際の患者98人を対象とする前向き研究を発表
+    - [BIDMC Researchers Conduct First Real-World Study of Safety and Quality of Patient-Facing AI in Primary Care | Beth Israel Deaconess Medical Center](https://bidmc.org/news-stories/all-news-stories/news/2026/10/bidmc-research-shows-safety-quality-of-ai-in-primary-care)
+    - [Conversational diagnostic artificial intelligence in ambulatory primary care: a prospective feasibility study - The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2901535-7/abstract)
+- 英Alan Turing Institute、新方針としてAIの技術的主権を重視
+    - [UK must not be beholden to foreign AI, says head of Alan Turing Institute | AI (artificial intelligence) | The Guardian](https://www.theguardian.com/technology/2026/oct/10/uk-foreign-ai-head-alan-turing-institute-george-williamson)
+
+## 2026-10-10
+
+- Anthropic、Agentが制約を迂回した実例を公開。評価環境のインターネット接続を全面停止へ
+    - [Investigating unintended model actions in our evaluations and internal use \ Anthropic](https://www.anthropic.com/research/investigating-unintended-model-actions)
+- 米ホワイトハウス、AI企業にインシデントの即時報告と是正を要求
+    - [Exclusive: Anthropic breaches spark White House AI reporting mandate](https://www.axios.com/2026/10/09/anthropic-ai-security-white-house)
+- 英政府、AIの制御不能状況に対応する法整備を検討
+    - [UK AI safety law to stop ‘loss of control’ over autonomous agents](https://www.thetimes.com/uk/technology-uk/article/uk-ai-safety-law-stop-loss-control-wbwp6ls6p)
+    - [Cyber Security and Resilience (Network and Information - Hansard - UK Parliament](https://hansard.parliament.uk/lords/2026-09-01/debates/28C141CD-8131-4D81-AB23-E998272582C9/CyberSecurityAndResilience)
+- 中国主要AI企業、857モデル中、安全性評価を公開したのは3.6%
+    - [China AI developers publish safety tests for just 3.6% of model releases, report finds | Reuters](https://www.reuters.com/legal/litigation/china-ai-developers-publish-safety-tests-just-36-model-releases-report-finds-2026-10-09/)
+    - [Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime](https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier)
+- 韓国銀行への攻撃に利用されたAI Agent「ARTEX」、開発者がOSS公開を停止
+    - [Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance](https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/)
+    - [Chinese developer makes ARTEX AI agent closed-source after Korean bank hack | Reuters](https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/)
+
+## 2026-10-09
+
+- Anthropic、OSS Scanner公開。AIが発見した脆弱性29,000件に人間の検証が追いつかず
+    - [An opt-in vulnerability-finding service for open-source software \ Anthropic](https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source)
+    - [Introducing the Anthropic Cyber Mission \ Anthropic](https://www.anthropic.com/news/anthropic-cyber-mission)
+- Anthropic、Usage Policyを改定。自律的な物理操作に停止可能性を要求
+    - [2026 Usage Policy update \ Anthropic](https://www.anthropic.com/news/2026-usage-policy-update)
+- デンマーク、本人の同意のないディープフェイク共有を禁止する法案を提出
+    - [Kulturminister vil dæmme op for delinger af digitale efterligninger fra årsskiftet](https://kum.dk/aktuelt/nyheder/kulturminister-vil-daemme-op-for-delinger-af-digitale-efterligninger-fra-aarsskiftet)
+    - [Denmark plans ban on sharing AI deepfakes without consent | Reuters](https://www.reuters.com/world/denmark-plans-ban-sharing-ai-deepfakes-without-consent-2026-10-08/)
+- インド、AI規制の協議文書を1か月以内に公開へ
+    - [AI Regulation Consultation Paper to Be Floated Within a Month: Ashwini Vaishnaw | Akashvani News](https://newsonair.gov.in/ai-regulation-consultation-paper-to-be-floated-within-a-month-ashwini-vaishnaw/)
+
 ## 2026-10-08
 
 - シンガポール金融当局、AIリスク管理ガイドラインを正式発行
