@@ -32,6 +32,12 @@
 - 米議員、航空管制支援AIの利用停止を要求。独立した安全評価の不足を問題視
     - [Ocasio-Cortez, McClain Delaney, Beyer, Mfume, Subramanyam, and Elfreth Lead Calls to Pause FAA’s AI Tool at Washington-Area Airports | Representative Ocasio-Cortez](https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-mcclain-delaney-beyer-mfume-subramanyam-and-elfreth-lead-calls)
 
+### Models
+
+- Grok Voice 3.0 — 音声エージェント向け新モデル
+    - [Introducing Grok Voice 3.0 | SpaceXSI](https://x.ai/news/grok-voice-3)
+    - [Speech to Speech Models and Providers Analysis | Artificial Analysis](https://artificialanalysis.ai/speech-to-speech)
+
 ## 2026-10-13
 
 - 英政府、Agentic AI専用の重大インシデント対応体制を構築へ
@@ -45,6 +51,18 @@
     - [Microsoft president says milk faces more regulation than AI | Reuters](https://www.reuters.com/legal/litigation/microsoft-president-says-milk-faces-more-regulation-than-ai-2026-10-12/)
 - 論文「Sapien」：Agentの操作履歴を考慮するStateful Policy Engine
     - [\[2610.00797\] Sapien: A Stateful Policy Engine for Autonomous AI Agents](https://arxiv.org/abs/2610.00797)
+
+### Models
+
+- Gemini 4 Argon — 一般向けAPI提供開始
+    - [Gemini 4 Argon is now available for everyone](https://blog.google/intl/en-in/products/introducing-gemini-4-argon/)
+    - [Gemini 4 Argon  |  Gemini API  |  Google AI for Developers](https://ai.google.dev/gemini-api/docs/models/gemini-4-argoncom)
+    - [Gemini 4 Argon: Google is back as one of the top three labs in intelligence achieved | Artificial Analysis](https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs)
+- LFM2.5-24B-A2B — ローカルAgent向けMoE
+    - [LFM2.5-24B-A2B: Built for Fast On-Device Agents | Blog | Liquid AI](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
+    - [LiquidAI/LFM2.5-24B-A2B · Hugging Face](https://huggingface.co/LiquidAI/LFM2.5-24B-A2B)
+    - ローカル向けにはGGUFやApple Silicon用MLXモデルも公開
+    - 年間売上1,000万ドル以上の企業が商用利用する場合、別途商用ライセンスが必要
 
 ## 2026-10-12
 
