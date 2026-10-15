@@ -170,6 +170,13 @@
 - White HouseのAI安全協定、「強制力なし」が改めて争点に
     - [As public fears of AI grow, Trump digs in on voluntary safeguards | Reuters](https://www.reuters.com/legal/litigation/public-fears-ai-grow-trump-digs-voluntary-safeguards-2026-10-03/)
 
+### Models
+
+- Kolibri — Aleph Alphaが欧州系open-weightモデルを公開
+    - [Kolibri Has Landed: A Sovereign Open-Weight Model — Aleph Alpha](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)
+    - [Aleph-Alpha/Kolibri-1-BF16 · Hugging Face](https://huggingface.co/Aleph-Alpha/Kolibri-1-BF16)
+    - ドイツ国内で訓練
+
 ## 2026-10-02
 
 - 米上院、超党派「AI Agent Accountability Act」を発表
@@ -200,6 +207,13 @@
     - [OpenClaw Enterprise - The Open Agent Platform - OpenClaw Blog](https://openclaw.ai/blog/openclaw-enterprise)
         - AI Control Planeの一つの実装か
     - [OpenClaw launches free enterprise control plane for persistent AI agents, backed by OpenAI, Red Hat and Nvidia | VentureBeat](https://venturebeat.com/orchestration/openclaw-launches-free-enterprise-control-plane-for-persistent-ai-agents-backed-by-openai-red-hat-and-nvidia) 
+
+### Models
+
+- Gemini 4 Argon — Googleの新フロンティアモデル
+    - [Introducing Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
+- Strands Decider 2B — AWSのDecision Model
+    - [Introducing Strands Decider 2B: a small, open source, decision model | Strands Agents](https://strandsagents.com/blog/introducing-strands-decider/)
 
 ## 2026-09-29
 
