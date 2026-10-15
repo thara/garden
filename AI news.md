@@ -122,6 +122,18 @@
 - 英政府、医療AIの規制改革44項目を全面受け入れ。継続監視へ移行
     - [Government backs recommendations of NHS doctors-led AI Commission - GOV.UK](https://www.gov.uk/government/news/government-backs-recommendations-of-nhs-doctors-led-ai-commission)
 
+### Models
+
+- Claude Haiku 5.5 — 小型モデルの性能と価格を大幅に改善
+    - [Introducing Claude Haiku 5.5 \ Anthropic](https://www.anthropic.com/claude-haiku-5-5)
+    - [Claude Haiku 5.5 Models - Intelligence, Performance & Price Comparison | Artificial Analysis](https://artificialanalysis.ai/models/releases/claude-haiku-5-5)
+    - 同時にSonnet 5.5のCached Input料金が$0.20から$0.10 / 1M tokensに引き下げ
+- Mellum2.1 — 小型Coding Agent向けLLM
+    - [Mellum2.1 Gets to Work: A Fast Open Model for Coding Agents - The JetBrains Blog](https://blog.jetbrains.com/ai/2026/10/mellum2-1-gets-to-work-a-fast-open-model-for-coding-agents/)
+    - [JetBrains/Mellum2.1-12B-A2.5B-Thinking · Hugging Face](https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking)
+    - [JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF · Hugging Face](https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF)
+        - Coding Harnessのローカルモデル候補
+
 ## 2026-10-07
 
 - Google Cloud × Mysten Labs、「Agentが権限内で行動したこと」を第三者へ証明するEvidence Layer
@@ -133,6 +145,12 @@
     - [Expanding the Cyber Verification Program \ Anthropic](https://www.anthropic.com/news/cyber-verification-program)
 - ユタ州政府、AI Agentに対する「Digital Identity + Human-in-the-loop + Technical Safeguard」を行政命令化
     -  [Utah governor signs order for 'pro-human' AI integration into state government | KSL.com](https://www.ksl.com/article/51633013/utah-governor-signs-order-for-pro-human-ai-integration-into-state-government)
+
+### Models
+
+- Liquid AI d1 — 超小型のDecision Model
+    - [Open d1: Edge decision models for text, vision, and audio | Blog | Liquid AI](https://www.liquid.ai/blog/d1-open)
+    - [Multimodal open d1 decision models for the edge](https://huggingface.co/blog/LiquidAI/open-d1)
 
 ## 2026-10-06
 
