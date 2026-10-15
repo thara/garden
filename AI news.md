@@ -146,6 +146,23 @@
 - Google、AIによる大量の無効報告でOSS bug bountyの一部を停止
     - [Google froze its open source bug bounty program due to a 'significant rise' in AI submissions | TechCrunch](https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/)
 
+### Models
+
+- ⁠Mistral AI Mistral Large 4 — 1兆parameter級の欧州open-weight frontier model
+    - [Mistral Large 4: Specs, Benchmarks, Pricing & Comparisons - Kingy AI](https://kingy.ai/blog/mistral-large-4-specs-benchmarks-pricing/?utm_source=chatgpt.com)
+    - [France's Mistral launches AI model it says outperforms some Chinese rivals | Reuters](https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/)
+    - [Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model - MarkTechPost](https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe)
+    - 欧州データセンターで学習
+ 
+## 2026-10-05
+
+### Models
+
+- Reflection AI Beam — 米国から中国open-weight勢への本格的な対抗馬
+    - [Introducing Beam: Reflection’s 501B open-weight model | alphaXiv](https://www.alphaxiv.org/abs/2610.introducing-beam)
+    - [Reflection Beam: Specs, Benchmarks & API Limits - Kingy AI](https://kingy.ai/news/reflection-beam-501b-open-weight-ai-guide/)
+    - [Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads - MarkTechPost](https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/)
+
 ## 2026-10-04
 
 - MLCommons、AI Agent固有の「25のPrivacy Risk」を体系化
