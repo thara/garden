@@ -2,6 +2,82 @@
 
 気になったやつだけ
 
+## 2026-10-08
+
+- シンガポール金融当局、AIリスク管理ガイドラインを正式発行
+    - [MAS Sets Out Supervisory Expectations on Responsible AI Adoption by Financial Institutions](https://www.mas.gov.sg/news/media-releases/2026/mas-sets-out-supervisory-expectations-on-responsible-ai-adoption-by-financial-institutions)
+- OpenAI、GPT-6のSafety Reportを公開。Agentの制約回避を定量評価
+    - [GPT-6 Sol and GPT-6 Luna: October 2026 update - OpenAI Deployment Safety Hub](https://deploymentsafety.openai.com/gpt-6-october)
+- OSS「AI Agent Gateway」の実装が公開。認証情報と権限をAgentから分離
+    - [Tuskira/ai-agent-gateway: AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic](https://github.com/Tuskira/ai-agent-gateway)
+        - [Architecture](https://github.com/Tuskira/ai-agent-gateway/blob/main/docs/architecture.md)
+        - [Security model](https://github.com/Tuskira/ai-agent-gateway/blob/main/docs/security-model.md)
+    - Go製、Apache-2.0ライセンスのOSS
+    - AgentとMCPサーバー/LLMプロバイダの間にGatewayを置く
+- ChatGPTの未成年向け安全対策、独立評価で重大な問題を指摘
+    - [ChatGPT for Teens Poses Unacceptable Risk to Kids, Common Sense Media Finds | Common Sense Media](https://www.commonsensemedia.org/press-releases/chatgpt-for-teens-poses-unacceptable-risk-to-kids-common-sense-media-finds)
+- 英政府、医療AIの規制改革44項目を全面受け入れ。継続監視へ移行
+    - [Government backs recommendations of NHS doctors-led AI Commission - GOV.UK](https://www.gov.uk/government/news/government-backs-recommendations-of-nhs-doctors-led-ai-commission)
+
+## 2026-10-07
+
+- Google Cloud × Mysten Labs、「Agentが権限内で行動したこと」を第三者へ証明するEvidence Layer
+    - [Mysten Labs Announces Verifiable Agent Arbiter in Collaboration with Google Cloud - Mysten Labs Blog](https://www.mystenlabs.com/blog/mysten-labs-announces-verifiable-agent-arbiter-in-collaboration-with-google-cloud)
+    - まだ共同開発段階で、一般提供時期や導入顧客は発表されていない
+- OpenAI・Anthropic、豪州で「Agentによる侵害の強制報告制度」を支持
+    - [OpenAI, Anthropic tell Australia they would welcome data breach rules | Reuters](https://www.reuters.com/legal/litigation/australias-abc-rejects-ai-copyright-carveout-believes-already-been-scraped-2026-10-06/)
+- Anthropic、高能力Cyber AIを「Identity / Purposeに応じて段階的に解放」
+    - [Expanding the Cyber Verification Program \ Anthropic](https://www.anthropic.com/news/cyber-verification-program)
+- ユタ州政府、AI Agentに対する「Digital Identity + Human-in-the-loop + Technical Safeguard」を行政命令化
+    -  [Utah governor signs order for 'pro-human' AI integration into state government | KSL.com](https://www.ksl.com/article/51633013/utah-governor-signs-order-for-pro-human-ai-integration-into-state-government)
+
+## 2026-10-06
+
+- Wikimediaが調査結果を公表：OpenAI Agentが無許可編集・exploit試行・数百万APIリクエスト
+    - [OpenAI “rogue” agent activities found on Wikimedia projects – Wikimedia Foundation](https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/)
+- NYC議会、OpenAI・Anthropic・Google・Metaを宣誓下で聴取。第三者検証・kill switchを含む10法案
+    - [AI industry insiders warn New York City leaders about the dangers of emerging technology | AP News](https://apnews.com/article/ai-nyc-whistleblower-artificial-intelligence-4be252d137ff1de1006130cdbb42ec24)
+    - [New York City Council Announces Anthropic, OpenAI, Google, and Meta to Publicly Testify Under Oath for First Time Since Recent Incident Reports - Press](https://council.nyc.gov/press/2026/09/28/3266/)
+- Collibraがtrail MLを買収：「Policy → Continuous Assessment → Runtime Enforcement」を一体化
+    - [Collibra acquires trail ML to automate AI governance from policy to production](https://www.prnewswire.com/news-releases/collibra-acquires-trail-ml-to-automate-ai-governance-from-policy-to-production-302897376.html)
+- Google、AIによる大量の無効報告でOSS bug bountyの一部を停止
+    - [Google froze its open source bug bounty program due to a 'significant rise' in AI submissions | TechCrunch](https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/)
+
+## 2026-10-04
+
+- MLCommons、AI Agent固有の「25のPrivacy Risk」を体系化
+    - [MLCommons catalogues 25 privacy risks posed by AI agents](https://ppc.land/mlcommons-catalogues-25-privacy-risks-posed-by-ai-agents/)
+- 英AI研究者19人、「AI事故調査委員会」を航空事故調査のように独立させるべきと提言
+    - [Rogue AI agents ‘should be investigated like air crashes’](https://www.thetimes.com/uk/technology-uk/article/rogue-ai-air-crash-watchdog-hmldznbjb)
+- 米「Super Intelligence Force」の構成が正式に具体化
+    - [Trump's national intelligence chief will lead a new federal AI task force | AP News](https://apnews.com/article/trump-jay-clayton-artificial-intelligence-task-force-b8689ea07de9102a52bd1cd2049b5901)
+
+## 2026-10-03
+
+- OpenAI、50PBのAgent履歴を総点検。1日50万ドル超
+    - [OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day | OpenAI | The Guardian](https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day)
+- OpenAIのDavid Robinsonが退社
+    - Safety Report / System Card作成をリードしていた人
+    - [OpenAI safety employee quits, says ’time for trial and error is over’ By Reuters](https://www.investing.com/news/economy-news/openai-safety-employee-quits-says-time-for-trial-and-error-is-over-4930874)
+    - [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ | TechCrunch](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/)
+- 米政府、「Super Intelligence Force」を設置へ — 120日でAI oversightを提言
+    - [Trump names intelligence chief Clayton as AI czar, to head task force | Reuters](https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03/)
+- 米中「AI incident hotline」が、より具体的な緊急通知構想へ
+    - [U.S. to propose emergency AI notification system with China](https://www.axios.com/2026/10/03/china-ai-bessent-axios-show)
+- White HouseのAI安全協定、「強制力なし」が改めて争点に
+    - [As public fears of AI grow, Trump digs in on voluntary safeguards | Reuters](https://www.reuters.com/legal/litigation/public-fears-ai-grow-trump-digs-voluntary-safeguards-2026-10-03/)
+
+## 2026-10-02
+
+- 米上院、超党派「AI Agent Accountability Act」を発表
+    - [Senators Hawley, Murphy Announce Bipartisan AI Agent Accountability Act - Josh Hawley](https://www.hawley.senate.gov/senators-hawley-murphy-announce-bipartisan-ai-agent-accountability-act/)
+    - [\[2026-10-01\] Murphy, Hawley Announce Breakthrough Bipartisan...](https://www.murphy.senate.gov/newsroom/press-releases/murphy-hawley-announce-breakthrough-bipartisan-legislation-to-force-ai-developers-to-prioritize-safety-or-face-prison-time)
+- OpenAI Agent、さらに別の豪州政府システムへ無許可アクセスしていたことが判明
+    - [Rogue OpenAI agent enters another NSW government website, tech giant says - ABC News](https://www.abc.net.au/news/2026-10-02/rogue-open-ai-agent-breach-nsw-government-website/107223108?utm_source=chatgpt.com)
+- カナダ政府サイトでもAgentによる攻撃試行
+    - [AI agents tried to hack a Canadian government website, research firm says | Reuters](https://www.reuters.com/world/ai-agents-tried-hack-canadian-government-website-research-firm-says-2026-10-01/)
+- 
+
 ## 2026-10-01
 
 - OpenAI、100以上の外部組織に意図せぬエージェントの活動を通知
