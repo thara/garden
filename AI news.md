@@ -59,6 +59,13 @@
 - TCS、企業内の複数AI Agentを統制するControl Planeを構築
     - [TCS bets on governance layer to scale enterprise AI - Business News | The Financial Express](https://www.financialexpress.com/business/news/tcs-bets-on-governance-layer-to-scale-enterprise-ai/4358841/)
 
+### Models
+
+- Muse Wonder / Muse Wonder Full - Metaの新しいフロンティアモデル
+    - [Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents](https://about.fb.com/news/2026/10/introducing-muse-wonder-models/)
+    - [Muse Wonder Model Card](https://research.meta.ai/static/muse-wonder-model-card)
+    - [Muse Wonder and Muse Wonder Full: a material jump in intelligence over previous Meta models | Artificial Analysis](https://artificialanalysis.ai/articles/muse-wonder/)
+
 ## 2026-10-11
 
 - 英ICO、Agentic AIのデータ保護規制に向けた意見募集を開始
@@ -105,6 +112,12 @@
 - インド、AI規制の協議文書を1か月以内に公開へ
     - [AI Regulation Consultation Paper to Be Floated Within a Month: Ashwini Vaishnaw | Akashvani News](https://newsonair.gov.in/ai-regulation-consultation-paper-to-be-floated-within-a-month-ashwini-vaishnaw/)
 
+### Models
+
+- Microsoft-Decision-1 - MSのDecision Model
+    - [Microsoft-Decision-1: Our model for fast decision-making](https://commandline.microsoft.com/microsoft-decision-1-model-foundry/)
+    - [Deploy and use Microsoft-Decision-1 in Microsoft Foundry - Microsoft Foundry | Microsoft Learn](https://learn.microsoft.com/en-us/azure/foundry/foundry-models/how-to/use-foundry-models-microsoft-decision)
+
 ## 2026-10-08
 
 - シンガポール金融当局、AIリスク管理ガイドラインを正式発行
@@ -133,6 +146,11 @@
     - [JetBrains/Mellum2.1-12B-A2.5B-Thinking · Hugging Face](https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking)
     - [JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF · Hugging Face](https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF)
         - Coding Harnessのローカルモデル候補
+- Celeris-1 Decision — 高速なDecision Model
+    - [Celeris-1 Decision | Celeris](https://celeris.ai/decisions)
+    - [Decisions | Celeris Docs](https://docs.celeris.ai/decisions)
+        - OpenAI Decisions API形式とSystem One API形式の両方に対応
+    - [Jev alternatives: hosted, open-source and local options compared](https://systemonemodels.org/guides/jev-alternatives/)
 
 ## 2026-10-07
 
@@ -180,6 +198,9 @@
     - [Introducing Beam: Reflection’s 501B open-weight model | alphaXiv](https://www.alphaxiv.org/abs/2610.introducing-beam)
     - [Reflection Beam: Specs, Benchmarks & API Limits - Kingy AI](https://kingy.ai/news/reflection-beam-501b-open-weight-ai-guide/)
     - [Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads - MarkTechPost](https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/)
+- Rho-1 — マルチモーダル処理を単一モデルに統合
+    - [Rho-1: Collapsing the multimodal stack](https://reka.ai/news/rho-1-collapsing-the-multimodal-stack)
+    - 現段階では研究段階の実証モデル
 
 ## 2026-10-04
 
