@@ -7,7 +7,7 @@
 - [[AI Agent Sprawl]]対策
 - AIエージェントへの認証認可、権限管理、統制ポリシーの適用
 - モデル利用料などのコスト最適化
-- 透明性、可観測性、監査対応
+- 透明性、可観測性、安全性、監査対応
 - 承認フローの統一
 
 ## 想定する機能
@@ -68,6 +68,9 @@ Agent Runtime
 
 Identity / Authorization
 - [Delegated Agent Authorization Protocol (DAAP)](https://datatracker.ietf.org/doc/html/draft-mishra-oauth-agent-grants-00?utm_source=chatgpt.com) (draft)
+
+Policy Engine
+- [Sapien: A Stateful Policy Engine for Autonomous AI Agents](https://arxiv.org/abs/2610.00797)
 
 Framework
 - [NIST AI 100-1](https://doi.org/10.6028/NIST.AI.100-1)
