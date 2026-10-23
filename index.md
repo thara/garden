@@ -4,7 +4,5 @@
 特に何かを目指しているわけではなく、自分のメモや気になったことを書き留めていく場所です。
 
 - [vimwiki](vimwiki.md)
-- [Plain Text](plain-text.md)
-- [気になるJob Description](job-description.md)
 - [Words](words.md)
-- [YouTube playlist](youtube-playlist.md)
+- [Study](study.md)
