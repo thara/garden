@@ -14,6 +14,11 @@
 	- [draft-kelley-aipref-training-preference-signal-00 - Machine-Readable Training Preference Signal](https://datatracker.ietf.org/doc/draft-kelley-aipref-training-preference-signal/)
 	- [Making it easier for websites to express AI training preferences | OpenAI](https://openai.com/index/helping-websites-express-ai-training-preferences/)
 
+### Research
+
+- Binding Agent Dialogs to WIMSE and OAuth Credentials
+    - [draft-reddy-wimse-oauth-dialog-binding-00](https://datatracker.ietf.org/doc/html/draft-reddy-wimse-oauth-dialog-binding-00?utm_source=chatgpt.com)
+
 ## 2026-10-30
 
 - OpenAI、Frontier Modelの行動を監視する多層システムを公開
@@ -33,10 +38,16 @@
 - Mistral Large 4
 	- [Mistral Large 4 (Le Chonk) is now open weight | Mistral](https://mistral.ai/news/mistral-large-4-oss/)
 	- [mistralai/Mistral-Large-4-1T-A52B · Hugging Face](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B)
-	- [Welcome Le Chonk: Mistral Large 4 on Hugging Face](https://huggingface.co/blog/mistral-large4?utm_source=chatgpt.com)
+	- [Welcome Le Chonk: Mistral Large 4 on Hugging Face](https://huggingface.co/blog/mistral-large4)
 	- [Mistral Large 4 (high) - Intelligence, Performance & Price Analysis | Artificial Analysis](https://artificialanalysis.ai/models/mistral-large-4)
 	- 商用利用、改変、ファインチューニングは可能
 	- Model-as-a-Service事業として提供する場合は、Mistralとの別途商用ライセンス契約が必要
+
+### Research
+
+- Kernel Assurance Plane（KAP）— Linux Kernel RFC Patch v2
+    - [Linux-Kernel Archive: [RFC PATCH v2 0/6] security: introduce Kernel Assurance Plane](https://lkml.rescloud.iu.edu/hypermail/linux/kernel/2610.3/09279.html)
+        - [Linux-Kernel Archive: [RFC PATCH v2 1/6] docs: security: Describe the Kernel Assurance Plane design](https://lkml.rescloud.iu.edu/hypermail/linux/kernel/2610.3/09293.html)
 
 ## 2026-10-29
 
@@ -64,6 +75,12 @@
 - Nemotron 3.5 Transcribe — 音声関連の新モデル
 	- [NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary)
 
+### Research
+
+- CoSA: The Conflict of Skills Attack in Real-World LLM Agent Ecosystems
+    - [[2610.35082] CoSA: The Conflict of Skills Attack in Real-World LLM Agent Ecosystems](https://arxiv.org/abs/2610.35082)
+    - [CoSA: The Conflict of Skills Attack in Real-World LLM Agent Ecosystems](https://sigmir-org.github.io/CoSA/)
+
 ## 2026-10-28
 
 - 人間の承認をAgent自身が迂回できない仕組み「I-HITL」
@@ -74,7 +91,6 @@
 	- [[2610.34435] CyberDual: AI Attackers versus AI Code Reviewers in Real Software Maintenance](https://arxiv.org/abs/2610.34435)
 - IBM、Agent Identity・Credential・Runtimeを統合した制御アーキテクチャを発表
 	- [IBM Introduces Identity and Control for AI Agents, Securing Frontier Intelligence for the Enterprise](https://newsroom.ibm.com/2026-10-27-ibm-introduces-identity-and-control-for-ai-agents,-securing-frontier-intelligence-for-the-enterprise)
-
 ### Models
 
 - LFM3 — 小型Agentモデルの有力候補
@@ -86,6 +102,13 @@
 - Particle-1 — 正答率を維持しながら推論トークンを削減
 	- [Introducing Particle-1 — Particle](https://particle.ai/blog/introducing-particle-1)
 
+### Research
+
+- An Audit Record Format for AI Agent Authorization Decisions — revision -02
+    - [draft-gilda-audit-agent-audit-record-02](https://datatracker.ietf.org/doc/html/draft-gilda-audit-agent-audit-record-02)
+    - [GitHub - probityai/agent-evidence-vectors: Conformance corpora and reference verifiers for AI-agent and supply-chain evidence formats · GitHub](https://github.com/probityai/agent-evidence-vectors)
+    - 認可判定と実測値を同じ署名付き監査レコードに格納し、第三者が両者の整合性を検証できる形式を定義
+
 ## 2026-10-27
 
 - Anthropic、4つのAIモデルが評価環境から外部システムへアクセスした事例を開示
@@ -96,6 +119,11 @@
 - 豪州政府の自動判定システム、人間が誤った結果を修正できない構造を監察官が批判
 	- [Automation and oversight in Aged Care](https://www.ombudsman.gov.au/__data/assets/pdf_file/0019/331264/Automation-and-oversight-in-Aged-Care.pdf)
 
+### Research
+
+- Verifiable Mandates for Agents Acting Across Administrative Domains
+    - [draft-hulea-wimse-agent-mandate-00](https://datatracker.ietf.org/doc/html/draft-hulea-wimse-agent-mandate-00?utm_source=chatgpt.com)
+
 ## 2026-10-26
 
 - Redwood Research、実運用に近いAgent Control Evaluationを提案
@@ -104,13 +132,18 @@
 	- [GitHub - microsoft/Agensh: A Decentralized, Scalable Multiagent Harness · GitHub](https://github.com/microsoft/Agensh)
 	- [Agensh: Scaling Organizational Intelligence to 1,024 Agents](https://agens-harness.github.io/project/)
 - Cisco、Agentの実行過程まで評価するAgentic FAITHを公開
-	- [blogs.cisco.com/ai/introducing-agentic-evaluation-in-faith?utm_source=chatgpt.com](https://blogs.cisco.com/ai/introducing-agentic-evaluation-in-faith)
+  - [Introducing Agentic Evaluation in FAITH - Cisco Blogs](https://blogs.cisco.com/ai/introducing-agentic-evaluation-in-faith)
 
 ### Models
 
 - GPT-6.1 Terra — Agent向けの性能とコスト効率が大幅改善
 	- [Introducing GPT-6.1 Terra | OpenAI](https://openai.com/index/introducing-gpt-6-1-terra/)
 	- [GPT-6.1 Terra pushes the cost efficiency frontier | Artificial Analysis](https://artificialanalysis.ai/articles/gpt-6-1-terra-pushes-the-cost-efficiency-frontier)
+
+### Research
+
+- RATION：Agentの累積リスクを制御するQuantitative Risk-Based Access Control
+    - [[2610.24311] RATION: Towards Quantitative Risk-Based Access Control for AI Agents](https://arxiv.org/abs/2610.24311)
 
 ## 2026-10-25
 
@@ -121,8 +154,12 @@
 	- [Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence](https://www.kimi.ai/blog/kimi-k3-1-pro)
 - Agentic AI Foundation、4つのAgent基盤技術を中立ガバナンスへ移管
 	- [Agentic AI Foundation Announces Four New Projects: Agent Skills, Open Responses, OpenEnv, and OpenSandbox](https://www.linuxfoundation.org/press/agentic-ai-foundation-announces-four-new-projects-agent-skills-open-responses-openenv-and-opensandbox)
-- 論文：ペトリネットを使い、AgentのTool実行を形式的に制御する
-	- [[2610.31376] Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action](https://arxiv.org/abs/2610.31376)
+
+### Research
+
+- LLM-assisted Formal Verification：123ライブラリの機械語レベルの安全性を証明
+  - [LLMs are making formal software verification feasible at a much larger scale \ Anthropic](https://www.anthropic.com/research/formal-verification)
+  - [GitHub - theorem-labs/oss-verify-proofs: Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq proofs of them · GitHub](https://github.com/theorem-labs/oss-verify-proofs)
 
 ## 2026-10-24
 
@@ -130,13 +167,13 @@
 	- [Investigating alignment failures in AISI’s incident | AISI Work](https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident)
 - OpenAI、AIエージェントによるVM Escapeと隔離境界の突破を報告
 	- [Securing our frontier model training environment | OpenAI](https://openai.com/index/securing-our-frontier-model-training-environment/)
+  - AgentはCPUキャッシュのアクセス時間の差を利用して、隔離された実行環境間で情報を交換することに成功した
 - 英政府、AI安全保障へ約6億ポンドを投資。AI Biosecurity Labを新設
 	- [UK government sets out $800 million of AI security funding | Reuters](https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/)
 - 日本政府、AIによるサイバー攻撃シミュレーション体制を構築へ
 	- [Japan to simulate cyberattacks as PHP flaws roil global internet | Reuters](https://www.reuters.com/business/media-telecom/japan-simulate-cyberattacks-php-flaws-roil-global-internet-2026-10-23/)
 - 日銀、AI投資の期待縮小とAIサイバー攻撃を金融システム上のリスクとして分析
 	- [金融システムレポート（2026年10月号） : 日本銀行 Bank of Japan](https://www.boj.or.jp/research/brp/fsr/fsr261023.htm)
-
 
 ### Models
 
@@ -148,6 +185,19 @@
 - MiniMax M3.1 Flash — ウェイト公開を確認
 	- [MiniMaxAI/MiniMax-M3.1-Flash · Hugging Face](https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash)
 	- MiniMax Community License。商用利用に条件
+
+### Research
+
+- Certified Execution Harness：ペトリネットによるAgent実行制御の形式的保証
+    - Runtime / Control Plane / Formal Verification / Capability-based Security
+    - [[2610.31376] Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action](https://arxiv.org/abs/2610.31376)
+    - 制御できない外部イベントを含めて安全性を保証
+    - Agentの再試行コストまで考慮
+- EpiSEM-Bench：安全性判断に必要な情報が欠落した場合のAgent評価
+    - Platform / Harness / Evaluation / Agent Safety
+    - [[2610.31650] EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence](https://arxiv.org/abs/2610.31650)
+    - 不正な指示がなくても、Tool Responseから重要な情報が欠落するだけで、Agentが危険な操作を実行する可能性がある <- コレに対するエージェント評価
+
 
 ## 2026-10-23
 
@@ -161,6 +211,12 @@
 	- [US Treasury drops Venezuela from countries facing outbound US investment restrictions | Reuters](https://www.reuters.com/world/us-treasury-drops-venezuela-countries-facing-outbound-us-investment-restrictions-2026-10-22/)
 	- [US Treasury proposes rule to crack down on high-tech investments in China, other adversaries | AP News](https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9)
 
+- Google Agent Compute Engine / Agent Substrate
+    - Runtime / Sandbox / Identity / Authorization / Lifecycle
+    - [Agent Compute Engine deep dive | Google Cloud Blog](https://cloud.google.com/blog/topics/ai-infrastructure/agent-compute-engine-deep-dive?utm_source=chatgpt.com)
+    - [Agent Substrate](https://ate.dev/)
+    - [substrate/docs/security at main · agent-substrate/substrate · GitHub](https://github.com/agent-substrate/substrate/tree/main/docs/security)
+
 ### Models
 
 - Dessa — テキストを一切使わず学習した音声AI
@@ -170,6 +226,8 @@
 ## 2026-10-22
 
 - OpenAI、Agentが自身の監視機構を無効化した2事例を公開
+  - 安全監視の自動通知を無効化
+  - 監視機構をコードから削除し、後に削除していないと誤回答
 	- [Suppressing misalignment monitoring alerts and disabling misalignment monitoring · OpenAI Alignment](https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/)
 - AIが発見したPHPの重大脆弱性、世界規模の緊急対応へ
 	- [Today's PHP Security Release, and How We're Strengthening PHP Security — The PHP Foundation — Supporting, Advancing, and Developing the PHP Language](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
@@ -188,6 +246,13 @@
 - OpenAIモデルがGoogle Cloudで提供へ
 	- [OpenAI models are coming to Google Cloud | OpenAI](https://openai.com/index/openai-models-google-cloud)
 	- [Google Cloud brings OpenAI models to customers | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers)
+
+### Research
+
+- NVIDIA Sentry：DPU上に独立したAgent Security Enforcementを配置
+    - Hardware Isolation / Authorization / Runtime Monitoring / Attestation
+    - [Inside NVIDIA Sentry: Secure AI Agents at Runtime | NVIDIA Technical Blog](https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/?utm_source=chatgpt.com)
+    - Agentの実行ホストとは別のハードウェアに監視・制御機構を配置
 
 ## 2026-10-21
 
@@ -211,6 +276,16 @@
 - OrcaCyber Nano 1.0 — 27Bのセキュリティ特化モデル
 	- [orcarouter/OrcaCyber-Nano-1.0 · Hugging Face](https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0)
 	- [OrcaRouter Launches OrcaCyber Nano 1.0, Bringing Frontier-Class Cybersecurity AI to Local Hardware](https://www.prnewswire.com/news-releases/orcarouter-launches-orcacyber-nano-1-0--bringing-frontier-class-cybersecurity-ai-to-local-hardware-302913538.html)
+### Research
+
+- Agent URI：Agentの識別・認証に特化したInternet-Draftへ大幅改訂
+    - [The agent URI Scheme and Verifiable Agent Identity](https://www.ietf.org/ietf-ftp/internet-drafts/draft-narvaneni-agent-uri-04.html)
+- GatewayBench：MCP Gatewayの構造がAgentの安全性を左右する
+    - [[2610.23449] GatewayBench: Unified Capability and Security Evaluation Platform for MCP Gateways](https://arxiv.org/abs/2610.23449)
+    - 既存MCP Gatewayの種類
+        - Flattened Gateway: 利用可能なToolをまとめてAgentに公開
+        - Hierarchical Gateway: Tool Discovery用のMeta Toolを公開、必要なToolだけを動的に取得
+    - この設計上の違いがAgentの性能、実行効率、攻撃耐性にどう影響するかの調査
 
 ## 2026-10-20
 
@@ -222,7 +297,6 @@
 	- [US banning Chinese AI DeepSeek from government agency IT systems | Reuters](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19)
 - 英国の科学技術諮問機関、AI主権に関する4つの提言を公開
 	- [AI sovereignty: preserving UK agency in an AI-enabled world (web version) - GOV.UK](https://www.gov.uk/government/publications/ai-sovereignty-preserving-uk-agency-in-an-ai-enabled-world/ai-sovereignty-preserving-uk-agency-in-an-ai-enabled-world-web-version)
-
 ### Models
 - MiniMax M3.1 Flash
 	- [MiniMax M3.1 Flash: Redefining Agent Performance and Cost - MiniMax Research | MiniMax](https://www.minimax.io/blog/minimax-m31f)
@@ -232,6 +306,18 @@
 	- [Ming-3.0 - a inclusionAI Collection](https://huggingface.co/collections/inclusionAI/ming-30)
 	- [inclusionAI/Ming-3.0-audio-flash · Hugging Face](https://huggingface.co/inclusionAI/Ming-3.0-audio-flash)
 	- [inclusionAI/Ming-3.0-audio-tiny · Hugging Face](https://huggingface.co/inclusionAI/Ming-3.0-audio-tiny)
+
+### Research
+
+- AgentLoupe：LLMの操作とOS上の副作用を、プロセスをまたいで追跡する
+    - [[2610.23233] AgentLoupe: Kernel-Resident Semantic Causal Labels for AI Agent Observability](https://arxiv.org/abs/2610.23233)
+    - eBPFを利用してLLMの操作に対応する識別子を生成し、それをKernel Resourceに伝播させる
+- MCP-FSD：MCP Toolの宣言と実際のファイルアクセス権限の乖離を大規模検証
+    - MCP / Capability-based Security / Sandbox / Tool Execution
+    - [[2610.22301] My Credentials, Please: Detecting Filesystem Capability Laundering in MCP Servers at Scale](https://arxiv.org/abs/2610.22301)
+- Monitor-Validity Failures：検知できているのにPolicyが強制されない問題
+    - Runtime Monitoring / Policy Enforcement / Evaluation / Reliability
+    - [[2610.23362] Monitor-Validity Failures: LLM Safety Evidence Paths at Evolving Framework Boundaries](https://arxiv.org/abs/2610.23362)
 
 ## 2026-10-19
 
@@ -244,6 +330,14 @@
 
 - MAI-Base-2 — Microsoft独自の2.8兆パラメータモデル
 	- [Frontier Pre-training at Microsoft AI | Microsoft AI](https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/)
+
+### Research
+
+- Strands Box：OS隔離とTemporal Policyを組み合わせたAgent Runtime
+    - Runtime / Sandbox / Authorization / Policy / Audit
+    - [Introducing Strands Box: AI agent sandboxes powered by Dogwood | AWS Open Source Blog](https://aws.amazon.com/blogs/opensource/introducing-strands-box-ai-agent-sandboxes-powered-by-dogwood/)
+    - [GitHub - strands-agents/box: Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned. · GitHub](https://github.com/strands-agents/box)
+    - [Introduction - The Dogwood Guide](https://dogwood-policy.github.io/dogwood/)
 
 ## 2026-10-18
 
@@ -267,7 +361,13 @@
 	- [DeepSeek V4.1 Flash 1017 - API Pricing & Benchmarks | OpenRouter](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
 - IBM Granite Switch 4.1 — 1つのモデルで複数の役割を実行
 	- [Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint](https://huggingface.co/blog/ibm-granite/granite-switch-4-1)
-	- [ibm-granite/granite-switch-4.1-8b · Hugging Face](https://huggingface.co/ibm-granite/granite-switch-4.1-8b?utm_source=chatgpt.com)
+	- [ibm-granite/granite-switch-4.1-8b · Hugging Face](https://huggingface.co/ibm-granite/granite-switch-4.1-8b)
+
+### Research
+
+- ToFu：LLM・Orchestrator・Tool間の信頼境界を検証するファジング手法
+    - Runtime Security / Tool Execution / MCP / Evaluation
+    - [[2610.13651] ToFu: Exploiting and Fuzzing the LLM-Orchestrator-Tool Trust Boundary](https://arxiv.org/abs/2610.13651)
 
 ## 2026-10-17
 
@@ -293,10 +393,22 @@
 - Glimpse — 視覚情報を再確認しながら推論するモデル
 	- [Introducing Glimpse — Elorian](https://elorian.ai/blog/introducing-glimpse)
 
+### Research
+- SpecAgent：Agentの実行履歴をまとめて検証する推論高速化手法
+	- Platform / Harness、Tool Execution、Model Routing、Evaluation
+	- [[2610.21463] Trajectory-Level Speculation with Semantic Verification for Tool-Using Agents](https://arxiv.org/abs/2610.21463)
+	- [GitHub - LARK-AI-Lab/SpecAgent: Code for Trajectory-Level Speculation with Semantic Verification for Tool-Using Agents · GitHub](https://github.com/LARK-AI-Lab/SpecAgent)
+
 ## 2026-10-16
 
 - FSB、Agentic AIの人間による監督を強化した最終指針を公開
 	- [Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Final report - Financial Stability Board](https://www.fsb.org/2026/10/sound-practices-for-responsible-adoption-of-artificial-intelligence-ai-final-report/)
+
+### Research
+
+- Anthropic：AI models may be capable of self-replicating without access to a datacenter
+	- Runtime / Containment / Agent Safety / Evaluation
+	- [AI models may be capable of self-replicating without access to a datacenter \ Anthropic](https://www.anthropic.com/research/self-replicating-ai)
 
 ## 2026-10-15
 
@@ -354,7 +466,7 @@
 ## 2026-10-13
 
 - 英政府、Agentic AI専用の重大インシデント対応体制を構築へ
-    - [Britain steps up national defences against growing AI risks - GOV.UK](https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks?utm_source=chatgpt.com)
+    - [Britain steps up national defences against growing AI risks - GOV.UK](https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks)
     - [Written statements - Written questions, answers and statements - UK Parliament](https://questions-statements.parliament.uk/written-statements/detail/2026-10-12/hcws357)
 - GitHub、Commitの実際のPush実行者を認証済みIdentityとして記録
     - [Push attribution for commits in limited public preview - GitHub Changelog](https://github.blog/changelog/2026-10-12-push-attribution-public-preview/)
@@ -516,7 +628,7 @@
 ### Models
 
 - ⁠Mistral AI Mistral Large 4 — 1兆parameter級の欧州open-weight frontier model
-    - [Mistral Large 4: Specs, Benchmarks, Pricing & Comparisons - Kingy AI](https://kingy.ai/blog/mistral-large-4-specs-benchmarks-pricing/?utm_source=chatgpt.com)
+    - [Mistral Large 4: Specs, Benchmarks, Pricing & Comparisons - Kingy AI](https://kingy.ai/blog/mistral-large-4-specs-benchmarks-pricing/)
     - [France's Mistral launches AI model it says outperforms some Chinese rivals | Reuters](https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/)
     - [Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model - MarkTechPost](https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe)
     - 欧州データセンターで学習
@@ -570,7 +682,7 @@
     - [Senators Hawley, Murphy Announce Bipartisan AI Agent Accountability Act - Josh Hawley](https://www.hawley.senate.gov/senators-hawley-murphy-announce-bipartisan-ai-agent-accountability-act/)
     - [\[2026-10-01\] Murphy, Hawley Announce Breakthrough Bipartisan...](https://www.murphy.senate.gov/newsroom/press-releases/murphy-hawley-announce-breakthrough-bipartisan-legislation-to-force-ai-developers-to-prioritize-safety-or-face-prison-time)
 - OpenAI Agent、さらに別の豪州政府システムへ無許可アクセスしていたことが判明
-    - [Rogue OpenAI agent enters another NSW government website, tech giant says - ABC News](https://www.abc.net.au/news/2026-10-02/rogue-open-ai-agent-breach-nsw-government-website/107223108?utm_source=chatgpt.com)
+    - [Rogue OpenAI agent enters another NSW government website, tech giant says - ABC News](https://www.abc.net.au/news/2026-10-02/rogue-open-ai-agent-breach-nsw-government-website/107223108)
 - カナダ政府サイトでもAgentによる攻撃試行
     - [AI agents tried to hack a Canadian government website, research firm says | Reuters](https://www.reuters.com/world/ai-agents-tried-hack-canadian-government-website-research-firm-says-2026-10-01/)
 - 
