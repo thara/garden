@@ -1,6 +1,302 @@
 # AI News
 
-気になったやつだけ
+気になったやつだけ。日時は自分が見つけた日時。実際とは若干ズレてる可能性あり。
+
+## 2026-10-31
+
+- PCM：AI Agent間の「テスト成功」「人間が承認した」を暗号学的に検証する新研究
+	- [[2610.39109] PCM: A Proof-Carrying Message Protocol for Verifiable Multi-Agent Communication](https://arxiv.org/abs/2610.39109)
+- OpenAI、GPT-Rosalind-6で高リスク能力を制限付き提供するガバナンスモデルを公開
+	- [GPT-Rosalind-6 System Card Addendum - OpenAI Deployment Safety Hub](https://deploymentsafety.openai.com/gpt-rosalind-6)
+- インド、通信事業者にAIシステムの台帳・監督・事故報告を求める指針案
+	- [Draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services](https://trai.gov.in/sites/default/files/2026-10/Draft_CP_30102026.pdf) (PDF)
+- IETF、AI学習への利用可否を共通表現するrobots.txtシグナルを提案
+	- [draft-kelley-aipref-training-preference-signal-00 - Machine-Readable Training Preference Signal](https://datatracker.ietf.org/doc/draft-kelley-aipref-training-preference-signal/)
+	- [Making it easier for websites to express AI training preferences | OpenAI](https://openai.com/index/helping-websites-express-ai-training-preferences/)
+
+## 2026-10-30
+
+- OpenAI、Frontier Modelの行動を監視する多層システムを公開
+	- [How we detect frontier model misalignment | OpenAI](https://openai.com/index/how-we-detect-frontier-model-misalignment/)
+- ニューヨーク州、危険なAI開発の計算資源を制限できる法案を提出
+	- [Sen. Gounardes Proposes Major New AI Safety and Transparency Regulations | NYSenate.gov](https://www.nysenate.gov/newsroom/press-releases/2026/andrew-gounardes/sen-gounardes-proposes-major-new-ai-safety-and)
+- EMBRACE：5つのAI開発ツールの組み込みブラウザにセキュリティ上の弱点
+	- [EMBRACE: [Technical Overview] How We Hacked the Browsers Embedded in Top Five Desktop AI Assistants · Forever Security](https://forever.security/blog/embrace-hacking-5-ai-assistants-embedded-browsers-technical)
+- OpenAI、Model Specを「人間の意図と主体性」を中心に再構成
+	- [An updated Model Spec for more capable and beneficial AI | OpenAI](https://openai.com/index/updated-model-spec/)
+	- [Model Spec (2026/10/29)](https://model-spec.openai.com/2026-10-29.html)
+- Heads of Security：Attentionの制御によってPrompt Injection耐性を改善
+	- [[2610.37657] Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness](https://arxiv.org/abs/2610.37657)
+
+### Models
+
+- Mistral Large 4
+	- [Mistral Large 4 (Le Chonk) is now open weight | Mistral](https://mistral.ai/news/mistral-large-4-oss/)
+	- [mistralai/Mistral-Large-4-1T-A52B · Hugging Face](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B)
+	- [Welcome Le Chonk: Mistral Large 4 on Hugging Face](https://huggingface.co/blog/mistral-large4?utm_source=chatgpt.com)
+	- [Mistral Large 4 (high) - Intelligence, Performance & Price Analysis | Artificial Analysis](https://artificialanalysis.ai/models/mistral-large-4)
+	- 商用利用、改変、ファインチューニングは可能
+	- Model-as-a-Service事業として提供する場合は、Mistralとの別途商用ライセンス契約が必要
+
+## 2026-10-29
+
+- Cisco、Agentの複数ステップにまたがる危険行動を検知する「Project Quarry」をOSS公開
+	- [A Shared Language for Agent Defense: Introducing Project Quarry - Cisco Blogs](https://blogs.cisco.com/ai/project-quarry-agent-security-detections)
+	- [GitHub - cisco-ai-defense/project-quarry: Detection DSL and engine for AI agents · GitHub](https://github.com/cisco-ai-defense/project-quarry)
+- フィンランド・ノルウェー主導、31カ国がFrontier AIの国際管理体制を協議
+	- [Joint Statement by President of the Republic of Finland Alexander Stubb and Prime Minister of Norway Jonas Gahr Støre on how to follow up the call for control over development of frontier AI models - Presidentti](https://www.presidentti.fi/en/joint-statement-by-president-of-the-republic-of-finland-alexander-stubb-and-prime-minister-of-norway-jonas-gahr-store-on-how-to-follow-up-the-call-for-control-over-development-of-frontier-ai-models/)
+	- [PM Lawrence Wong at the Virtual Leaders’ Meeting on Frontier AI Safety Co-Hosted by Norway and Finland (Oct 2026) | Prime Minister's Office Singapore](https://www.pmo.gov.sg/newsroom/pm-lawrence-wong-at-the-virtual-leaders-meeting-on-frontier-ai-safety-co-hosted-by-norway-and-finland-oct-2026/)
+- ニューヨーク州、未成年者向けAI Chatbotの危険機能を法律で禁止
+	- [Governor Hochul Signs Nation-Leading Legislation to Protect Kids From AI Chatbots and to Ensure Baby Monitor Safety | Governor Kathy Hochul | New York State](https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby)
+- Microsoftら、AIエージェントへの委譲失敗を23種類に分類した「MANDATE」を発表
+	- [[2610.34748] Babysitting AI Agents: A User-Centered Taxonomy and Study of Agentic Delegation Failures](https://arxiv.org/abs/2610.34748)
+- マレーシア、Agentの制御不能やShutdown AvoidanceをAI Governance Billの課題として明示
+	- [AI Governance Bill being drafted to strengthen safety, accountability, says Gobind](https://theedgemalaysia.com/node/823694)
+
+### Models
+
+- Gemini 4 Carbon
+	- [Introducing Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
+- Clover-35B-A3B-Preview
+	- [Clover-35B-A3B-Preview · DiffuSpace](https://diffuspace.ai/blog/clover-35b/)
+- Ling-3.1-flash-1019 — MITライセンスの大型MoE
+	- [inclusionAI/Ling-3.1-flash-1019 · Hugging Face](https://huggingface.co/inclusionAI/Ling-3.1-flash-1019
+- Nemotron 3.5 Transcribe — 音声関連の新モデル
+	- [NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary)
+
+## 2026-10-28
+
+- 人間の承認をAgent自身が迂回できない仕組み「I-HITL」
+	- [[2610.35835] I-HITL: Inalienable Human-in-the-Loop](https://arxiv.org/abs/2610.35835)
+- V³AST-Bench、AI Agentの「危険性の認識」と「実際の行動」の乖離を大規模検証
+	- - [[2610.35188] V$^3$AST-Bench: Verifiable, Valid, and Versatile Safety Evaluation for Coding Agents](https://arxiv.org/abs/2610.35188)
+- CyberDual、AI攻撃者がAIコードレビューを突破する割合を実証
+	- [[2610.34435] CyberDual: AI Attackers versus AI Code Reviewers in Real Software Maintenance](https://arxiv.org/abs/2610.34435)
+- IBM、Agent Identity・Credential・Runtimeを統合した制御アーキテクチャを発表
+	- [IBM Introduces Identity and Control for AI Agents, Securing Frontier Intelligence for the Enterprise](https://newsroom.ibm.com/2026-10-27-ibm-introduces-identity-and-control-for-ai-agents,-securing-frontier-intelligence-for-the-enterprise)
+
+### Models
+
+- LFM3 — 小型Agentモデルの有力候補
+	- [Introducing LFM3: Every Modality for Specialized Intelligence | Blog | Liquid AI](https://www.liquid.ai/blog/lfm3)
+	- [LiquidAI/LFM3-1.7B · Hugging Face](https://huggingface.co/LiquidAI/LFM3-1.7B)
+- Fern 0.1 — 1,000万トークンのコンテキスト
+	- [Introducing Fern — Mirendil](https://mirendil.com/news/introducing-fern/)
+	- [Pretraining at scale without a pretraining team — Mirendil](https://mirendil.com/news/pretraining-at-scale-without-a-pretraining-team/)
+- Particle-1 — 正答率を維持しながら推論トークンを削減
+	- [Introducing Particle-1 — Particle](https://particle.ai/blog/introducing-particle-1)
+
+## 2026-10-27
+
+- Anthropic、4つのAIモデルが評価環境から外部システムへアクセスした事例を開示
+	- [Anthropic, PBC - S-1 (Q2)](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
+	- [Anthropic discloses month-long training pause, AI security breaches in IPO filing | Reuters](https://www.reuters.com/legal/litigation/anthropic-discloses-month-long-training-pause-ai-security-breaches-ipo-filing-2026-10-26)
+- AIエージェントが12時間未満でAnthropicの社内システムへの侵入経路を発見
+	- [Researchers at cybersecurity start-up Cathedral got inside Anthropic - The Washington Post](https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/)
+- 豪州政府の自動判定システム、人間が誤った結果を修正できない構造を監察官が批判
+	- [Automation and oversight in Aged Care](https://www.ombudsman.gov.au/__data/assets/pdf_file/0019/331264/Automation-and-oversight-in-Aged-Care.pdf)
+
+## 2026-10-26
+
+- Redwood Research、実運用に近いAgent Control Evaluationを提案
+	- [Simulated Control Evaluations — Redwood Research](https://www.redwoodresearch.org/blog/simulated-control-evaluations)
+- Microsoft、1,024体のAgentが自己組織化するAgenshをOSS公開
+	- [GitHub - microsoft/Agensh: A Decentralized, Scalable Multiagent Harness · GitHub](https://github.com/microsoft/Agensh)
+	- [Agensh: Scaling Organizational Intelligence to 1,024 Agents](https://agens-harness.github.io/project/)
+- Cisco、Agentの実行過程まで評価するAgentic FAITHを公開
+	- [blogs.cisco.com/ai/introducing-agentic-evaluation-in-faith?utm_source=chatgpt.com](https://blogs.cisco.com/ai/introducing-agentic-evaluation-in-faith)
+
+### Models
+
+- GPT-6.1 Terra — Agent向けの性能とコスト効率が大幅改善
+	- [Introducing GPT-6.1 Terra | OpenAI](https://openai.com/index/introducing-gpt-6-1-terra/)
+	- [GPT-6.1 Terra pushes the cost efficiency frontier | Artificial Analysis](https://artificialanalysis.ai/articles/gpt-6-1-terra-pushes-the-cost-efficiency-frontier)
+
+## 2026-10-25
+
+- LiteLLM侵害の全容判明。Agent Platformの権限管理がサプライチェーン攻撃の起点に
+	- [The attack chain behind the v1.107.0 LiteLLM release | liteLLM](https://docs.litellm.ai/blog/security-incident-oct-21-2026-attack-chain)
+	- [Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks | Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/)
+- Moonshot AI、Kimi K3.1 Proのサイバー攻撃能力を意図的に抑制
+	- [Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence](https://www.kimi.ai/blog/kimi-k3-1-pro)
+- Agentic AI Foundation、4つのAgent基盤技術を中立ガバナンスへ移管
+	- [Agentic AI Foundation Announces Four New Projects: Agent Skills, Open Responses, OpenEnv, and OpenSandbox](https://www.linuxfoundation.org/press/agentic-ai-foundation-announces-four-new-projects-agent-skills-open-responses-openenv-and-opensandbox)
+- 論文：ペトリネットを使い、AgentのTool実行を形式的に制御する
+	- [[2610.31376] Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action](https://arxiv.org/abs/2610.31376)
+
+## 2026-10-24
+
+- 英AISI、Agentは「危険だと分かっていても攻撃を続ける」と報告
+	- [Investigating alignment failures in AISI’s incident | AISI Work](https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident)
+- OpenAI、AIエージェントによるVM Escapeと隔離境界の突破を報告
+	- [Securing our frontier model training environment | OpenAI](https://openai.com/index/securing-our-frontier-model-training-environment/)
+- 英政府、AI安全保障へ約6億ポンドを投資。AI Biosecurity Labを新設
+	- [UK government sets out $800 million of AI security funding | Reuters](https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/)
+- 日本政府、AIによるサイバー攻撃シミュレーション体制を構築へ
+	- [Japan to simulate cyberattacks as PHP flaws roil global internet | Reuters](https://www.reuters.com/business/media-telecom/japan-simulate-cyberattacks-php-flaws-roil-global-internet-2026-10-23/)
+- 日銀、AI投資の期待縮小とAIサイバー攻撃を金融システム上のリスクとして分析
+	- [金融システムレポート（2026年10月号） : 日本銀行 Bank of Japan](https://www.boj.or.jp/research/brp/fsr/fsr261023.htm)
+
+
+### Models
+
+- Kimi K3.1 Pro — 中国発モデルがフロンティア級に
+	- [Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence](https://www.kimi.ai/blog/kimi-k3-1-pro)
+	- [Kimi K3.1 Pro launches at 4th on the Intelligence Index and will lead open weights models | Artificial Analysis](https://artificialanalysis.ai/ja/articles/kimi-k3-1-pro-launch-benchmarks)
+- Nemotron 3.5 Bolt E4B — 小型Agentモデルが公開
+	- [nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB · Hugging Face](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB)
+- MiniMax M3.1 Flash — ウェイト公開を確認
+	- [MiniMaxAI/MiniMax-M3.1-Flash · Hugging Face](https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash)
+	- MiniMax Community License。商用利用に条件
+
+## 2026-10-23
+
+- METR、OpenAIの内部Agent監視システムに複数の脆弱性を発見
+	- [Red-Teaming OpenAI's Internal Agent Monitoring Systems - METR](https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/?ref=explainx)
+- 米主要銀行、第三者AI Agentによる口座操作を制限
+	- [Scoop: Unvetted AI agents are accessing U.S. bank accounts](https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access)
+- METR、AnthropicのAIリスク評価手法に重要な限界を指摘
+	- [Review of the "Misalignment in high-stakes settings" section in Anthropic's Risk Report (August 2026) - METR](https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review/)
+- 米財務省、AIなどの先端技術への対外投資を制限する新規則案を発表
+	- [US Treasury drops Venezuela from countries facing outbound US investment restrictions | Reuters](https://www.reuters.com/world/us-treasury-drops-venezuela-countries-facing-outbound-us-investment-restrictions-2026-10-22/)
+	- [US Treasury proposes rule to crack down on high-tech investments in China, other adversaries | AP News](https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9)
+
+### Models
+
+- Dessa — テキストを一切使わず学習した音声AI
+	- [Dessa - the Conversation Model trained only on speech](https://block.xyz/dessa)
+	- [Block unveils Dessa: a full-duplex speech model trained from scratch only on human conversation audio, running locally on a MacBook Pro M4 Max — AICoder](https://www.aicoder.com/news/news-20261024-block-dessa-full-duplex-speech-model-trained-only-on-speech)
+
+## 2026-10-22
+
+- OpenAI、Agentが自身の監視機構を無効化した2事例を公開
+	- [Suppressing misalignment monitoring alerts and disabling misalignment monitoring · OpenAI Alignment](https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/)
+- AIが発見したPHPの重大脆弱性、世界規模の緊急対応へ
+	- [Today's PHP Security Release, and How We're Strengthening PHP Security — The PHP Foundation — Supporting, Advancing, and Developing the PHP Language](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
+- OpenAI、Agentの停止制御と責任分界を求める新たな政策提言
+	- [Democratic governance of frontier AI, part II: Empowering cyber defenders | OpenAI](https://openai.com/index/empowering-cyber-defenders/)
+- Symantec、自律型攻撃AgentによるLLMjackingを調査
+	- [Autonomous LLMjacking: ‘Skynet’ Agent Hijacks Exposed AI Models to Run Attacks | SECURITY.COM](https://www.security.com/threat-intelligence/ai-llmjacking-skynet)
+- OpenAI、AI時代の脆弱性開示・修正体制「Patch the Planet」を提案
+	- [Patch the Planet: global response coordination as agents uncover critical vulnerabilities | OpenAI](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
+
+### Models
+
+- Nemotron 3.5 Retriever — Agent向け検索モデル群
+	- [NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models](https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval)
+	- [Nemotron 3.5 Retriever - a nvidia Collection](https://huggingface.co/collections/nvidia/nemotron-35-retriever)
+- OpenAIモデルがGoogle Cloudで提供へ
+	- [OpenAI models are coming to Google Cloud | OpenAI](https://openai.com/index/openai-models-google-cloud)
+	- [Google Cloud brings OpenAI models to customers | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers)
+
+## 2026-10-21
+
+- デジタル庁、Agent統制の「源内基準」を公開
+	- [ガバメントAI 源内においてAI エージェント利用環境の提供を開始するとともに、「源内基準」を公表します｜デジタル庁](https://www.digital.go.jp/policies/genai/agent-safety-standard)
+- ServiceNow調査：90%の企業がAgent関連のセキュリティインシデントを経験
+	- [ServiceNow Research Study Warns Security Leaders: Ungoverned Agentic AI Exposure Is Compounding Inside Enterprises - ServiceNow Newsroom](https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-Research-Study-Warns-Security-Leaders-Ungoverned-Agentic-AI-Exposure-Is-Compounding-Inside-Enterprises/default.aspx)
+- 国連、軍事AIの統制に向けた国際フォーラムを10月22日に始動
+	- [​UNIDIR’s Centre of Excellence on AI, Peace and Security: Forum launch​ → UNIDIR](https://unidir.org/event/unidirs-centre-of-excellence-on-ai-peace-and-security-forum-launch/)
+	- [UN plans to create global forum on military use of AI | AP News](https://apnews.com/article/un-artificial-intelligence-military-china-us-e0a3c48c91a9de89cab72609d185f658)
+- OpenSSL、AIによる脆弱性報告が急増。人間による検証がボトルネックに
+	- [AI bug reports are overwhelming OpenSSL security maintainers](https://www.axios.com/2026/10/20/ai-bug-reports-overwhelm-openssl-maintainers)
+- 日本政府、「AI・デジタル改革推進会議」の新設を閣議決定
+	- [AI・デジタル改革推進会議｜デジタル庁](https://www.digital.go.jp/councils/ai_digital)
+
+### Models
+
+- Mercury 3 — 拡散型LLMが本格的に大型化
+	- [Diffusion at Scale: Introducing Mercury 3 – Inception](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
+	- [Mercury 3 - API Pricing & Benchmarks | OpenRouter](https://openrouter.ai/inception/mercury-3)
+- OrcaCyber Nano 1.0 — 27Bのセキュリティ特化モデル
+	- [orcarouter/OrcaCyber-Nano-1.0 · Hugging Face](https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0)
+	- [OrcaRouter Launches OrcaCyber Nano 1.0, Bringing Frontier-Class Cybersecurity AI to Local Hardware](https://www.prnewswire.com/news-releases/orcarouter-launches-orcacyber-nano-1-0--bringing-frontier-class-cybersecurity-ai-to-local-hardware-302913538.html)
+
+## 2026-10-20
+
+- Microsoft、Agentのリスクに応じて権限を動的に変更する仕組みを発表
+	- [Agents are your newest insiders. Security must move at their speed.  | Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/)
+- AI Agentを利用した大規模不正アクセス。100以上のWebサイトが侵害されたと報告
+	- [Inside Cairn: Open Windows into massive AI-Driven Cyber Operations - NorForge](https://norforge.com/blog/inside_cairn)
+- 米国政府、DeepSeekと関連サービスを連邦政府のITシステムから排除
+	- [US banning Chinese AI DeepSeek from government agency IT systems | Reuters](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19)
+- 英国の科学技術諮問機関、AI主権に関する4つの提言を公開
+	- [AI sovereignty: preserving UK agency in an AI-enabled world (web version) - GOV.UK](https://www.gov.uk/government/publications/ai-sovereignty-preserving-uk-agency-in-an-ai-enabled-world/ai-sovereignty-preserving-uk-agency-in-an-ai-enabled-world-web-version)
+
+### Models
+- MiniMax M3.1 Flash
+	- [MiniMax M3.1 Flash: Redefining Agent Performance and Cost - MiniMax Research | MiniMax](https://www.minimax.io/blog/minimax-m31f)
+	- [MiniMax-M3.1-Flash - Intelligence, Performance & Price Analysis | Artificial Analysis](https://artificialanalysis.ai/models/minimax-m3-1-flash)
+- Ming-3.0 Audio — 音声理解モデルのオープンウェイト展開
+	- [GitHub - inclusionAI/Ming-3.0-audio-flash · GitHub](https://github.com/inclusionAI/Ming-3.0-audio-flash)
+	- [Ming-3.0 - a inclusionAI Collection](https://huggingface.co/collections/inclusionAI/ming-30)
+	- [inclusionAI/Ming-3.0-audio-flash · Hugging Face](https://huggingface.co/inclusionAI/Ming-3.0-audio-flash)
+	- [inclusionAI/Ming-3.0-audio-tiny · Hugging Face](https://huggingface.co/inclusionAI/Ming-3.0-audio-tiny)
+
+## 2026-10-19
+
+- AWS、自律型セキュリティAgentが37件中33件の脆弱性を悪用できたと報告
+	- [AWS Security Agent (now part of AWS Continuum) exploited 33 of 37 new real-world CVEs | AWS Security Blog](https://aws.amazon.com/blogs/security/aws-security-agent-now-part-of-aws-continuum-exploited-33-of-37-new-real-world-cves/)
+- 論文：Coding Agentは機能テストに91%成功しても、安全なコードは25%
+	- [\[2610.14766\] Last Secure Code Benchmark: Is the Code You Vibe Secure?](https://arxiv.org/abs/2610.14766)
+
+### Models
+
+- MAI-Base-2 — Microsoft独自の2.8兆パラメータモデル
+	- [Frontier Pre-training at Microsoft AI | Microsoft AI](https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/)
+
+## 2026-10-18
+
+- OpenAI、Agentによる権限逸脱を新たに公開
+	- [Using a funded test cryptocurrency wallet without authorization · OpenAI Alignment](https://alignment.openai.com/misalignment-reports/using-a-funded-test-cryptocurrency-wallet-without-authorization/)
+	- [Accessing and changing internal systems during dashboard research · OpenAI Alignment](https://alignment.openai.com/misalignment-reports/accessing-and-changing-internal-systems-during-dashboard-research/)
+	- [Retrieving server secrets and bypassing authorization on a government statistics website · OpenAI Alignment](https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/)
+- インド政府、AI Agentによる企業システムへの無断アクセスを公式確認
+	- [Rogue AI agents broke into Indian firms' live systems, government says | Reuters](https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/)
+- WebサービスがAI Agentのアクセスを拒否。Agentの権限委譲に新たな課題
+	- [Websites are closing their doors to AI agents | The Verge](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
+- IETF、Agent Discoveryにネットワークコンテキストを組み込むDraftを更新
+	- [draft-dunbar-dawn-infra-assisted-discovery-02 - Infrastructure-Assisted Discovery for AI Agents](https://datatracker.ietf.org/doc/draft-dunbar-dawn-infra-assisted-discovery/02)
+	- 個人によるInternet-Draftであり、IETFの承認済み標準ではない
+
+### Models
+
+- DeepSeek-V4.1-Flash-1017 — Agentic Coding性能を強化
+	- [DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real | DeepSeek API Docs](https://api-docs.deepseek.com/news/news261017/)
+	- [deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
+	- [DeepSeek V4.1 Flash 1017 - API Pricing & Benchmarks | OpenRouter](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
+- IBM Granite Switch 4.1 — 1つのモデルで複数の役割を実行
+	- [Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint](https://huggingface.co/blog/ibm-granite/granite-switch-4-1)
+	- [ibm-granite/granite-switch-4.1-8b · Hugging Face](https://huggingface.co/ibm-granite/granite-switch-4.1-8b?utm_source=chatgpt.com)
+
+## 2026-10-17
+
+- Anthropic、独立評価・インシデント報告・緊急停止を定めるAI安全法案を提案
+	- [Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports | Reuters](https://www.reuters.com/legal/litigation/anthropic-quietly-pitches-its-own-ai-safety-bill-lawmakers-politico-reports-2026-10-16)
+- ServiceNow、暗号学的なAgent権限証明「AI Passport」を発表
+	- [ServiceNow advances its operational harness for enterprise AI with AI Passport and expanded governance capabilities - ServiceNow Newsroom](https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-advances-its-operational-harness-for-enterprise-AI-with-AI-Passport-and-expanded-governance-capabilities/default.aspx)
+- Tencent、評価中のAgentが外部サービスのアクセス制限を迂回しようとした事例を認める
+	- [China's Tencent says AI agents showed unintended browsing behaviour | Reuters](https://www.reuters.com/business/retail-consumer/chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour-2026-10-16)
+- 中国、AIモデル・Agentを含む23技術の輸出管理案を公表
+	- [商务部新闻发言人就修订《中国禁止出口限制出口技术目录》答记者问](https://www.mofcom.gov.cn/zwgk/zcjd/art/2026/art_b11d5c1e9374421e93e85dc87eba6e38.html)
+- G7、AIによるサイバー攻撃への共同机上演習で合意
+	- [G7 to launch exercises to guard against AI cyber attacks | Reuters](https://www.reuters.com/world/asia-pacific/g7-launch-exercises-guard-against-ai-cyber-attacks-2026-10-16/)
+
+### Models
+
+- Beam 1.0 — ウェイト公開と独立評価
+	- [Beam is now available — Reflection](https://reflection.ai/blog/beam-is-available)
+	- [reflection/Beam-1.0-501B-A23B · Hugging Face](https://huggingface.co/reflection/Beam-1.0-501B-A23B)
+	- [Introducing Reflection Beam: an open-weight model for agentic coding on AWS | Artificial Intelligence](https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/)
+- Ternary Bonsai 2 — 9Bモデルをわずか2GBに
+	- [PrismML — Introducing Ternary Bonsai 2 2B, 4B, and 9B: Bringing Local Agents to Everyday Devices](https://prismml.com/news/bonsai-2-family)
+- Glimpse — 視覚情報を再確認しながら推論するモデル
+	- [Introducing Glimpse — Elorian](https://elorian.ai/blog/introducing-glimpse)
+
+## 2026-10-16
+
+- FSB、Agentic AIの人間による監督を強化した最終指針を公開
+	- [Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Final report - Financial Stability Board](https://www.fsb.org/2026/10/sound-practices-for-responsible-adoption-of-artificial-intelligence-ai-final-report/)
 
 ## 2026-10-15
 
@@ -18,6 +314,23 @@
     - [NVIDIA Corporation - NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the Next Five Years](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Commits-250-Million-to-Advance-UK-Agentic-Safety-and-Security-Research-Over-the-Next-Five-Years/default.aspx)
 - Google DeepMindのHassabis、AI安全性の「動的な認証制度」を提唱
     - [Google Deepmind's Hassabis calls AI hacks 'early warning shots' | Reuters](https://www.reuters.com/legal/litigation/google-deepminds-hassabis-calls-ai-hacks-early-warning-shots-2026-10-14/)
+- ByteDance、Agent SafetyとAlignmentを専門に研究する部門を設立
+	- [China's ByteDance sets up AI safety team, launches global hiring drive | Reuters](https://www.reuters.com/business/media-telecom/chinas-bytedance-sets-up-ai-safety-team-launches-global-hiring-drive-2026-10-15/)
+
+## Models
+
+- Muse Spark Open — Metaが816Bのウェイトを公開
+	- [Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date | Meta AI Research](https://research.meta.ai/blog/muse-spark-open)
+	- [meta-models/Muse-Spark-Open-816B-A42B · Hugging Face](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B)
+- Nemotron 3.5 Super VL — NVIDIAの高速Agent向けモデル
+	- [Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models | NVIDIA Blog](https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/)
+	- [nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4 · Hugging Face](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4)
+- Nemotron 3.5 Bolt 74B-A9B — 24GBで動くAgentモデル
+	- [nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB · Hugging Face](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB)
+- Comet 60B — Nemotronを半分に圧縮
+	- [Multiverse Computing Launches Comet 60B in collaboration with NVIDIA: Multimodal Capabilities at Half the Parameters](https://multiversecomputing.com/resources/multiverse-computing-launches-comet-60b-in-collaboration-with-nvidia)
+	- [MultiverseComputingCAI/Comet_60B_A12B_NVFP4 · Hugging Face](https://huggingface.co/MultiverseComputingCAI/Comet_60B_A12B_NVFP4)
+
 
 ## 2026-10-14
 
