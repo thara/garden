@@ -1,9 +1,9 @@
 
 - [What I run on my $10 USD OpenStick homelab | Bosscher](https://blog.bosscher.ch/posts/openstick/)
-
-## Monitoring
-
-- [henrygd/beszel: Lightweight server monitoring with historical data, docker stats, and alerts.](https://github.com/henrygd/beszel?pubDate=20260404)
-- [TwiN/gatus: Automated developer-oriented status page with alerting and incident support](https://github.com/TwiN/gatus)
-- [amir20/dozzle: Realtime log viewer for containers. Supports Docker, Swarm and K8s.](https://github.com/amir20/dozzle)
-- [amir20/dtop: Terminal dashboard for Docker monitoring across multiple hosts with Dozzle integration.](https://github.com/amir20/dtop)
+  - [ZeroClaw — The Lightweight Personal AI Agent You Own](https://www.zeroclaw.com/)
+  - [henrygd/beszel: Lightweight server monitoring with historical data, docker stats, and alerts.](https://github.com/henrygd/beszel?pubDate=20260404)
+  - [TwiN/gatus: Automated developer-oriented status page with alerting and incident support](https://github.com/TwiN/gatus)
+  - [amir20/dozzle: Realtime log viewer for containers. Supports Docker, Swarm and K8s.](https://github.com/amir20/dozzle)
+  - [amir20/dtop: Terminal dashboard for Docker monitoring across multiple hosts with Dozzle integration.](https://github.com/amir20/dtop)
+  - [0x2E/fusion: A lightweight, self-hosted friendly RSS reader](https://github.com/0x2E/fusion)
+  - [go-shiori/shiori: Simple bookmark manager built with Go](https://github.com/go-shiori/shiori)
