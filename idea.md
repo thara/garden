@@ -1,5 +1,6 @@
 
 - [What I run on my $10 USD OpenStick homelab | Bosscher](https://blog.bosscher.ch/posts/openstick/)
+  - [OpenStick - wvthoog.nl](https://wvthoog.nl/openstick/)
   - [ZeroClaw — The Lightweight Personal AI Agent You Own](https://www.zeroclaw.com/)
   - [henrygd/beszel: Lightweight server monitoring with historical data, docker stats, and alerts.](https://github.com/henrygd/beszel?pubDate=20260404)
   - [TwiN/gatus: Automated developer-oriented status page with alerting and incident support](https://github.com/TwiN/gatus)
