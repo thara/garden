@@ -1,4 +1,6 @@
 
+- [What I run on my $10 USD OpenStick homelab | Bosscher](https://blog.bosscher.ch/posts/openstick/)
+
 ## Monitoring
 
 - [henrygd/beszel: Lightweight server monitoring with historical data, docker stats, and alerts.](https://github.com/henrygd/beszel?pubDate=20260404)
