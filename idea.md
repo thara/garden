@@ -1,3 +1,4 @@
+- [Evolving programming languages in the AI era - Dashbit Blog](https://dashbit.co/blog/evolving-ai-era)
 
 - [What I run on my $10 USD OpenStick homelab | Bosscher](https://blog.bosscher.ch/posts/openstick/)
   - [OpenStick - wvthoog.nl](https://wvthoog.nl/openstick/)
