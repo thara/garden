@@ -44,3 +44,9 @@
 **自分の目で見てようく考えなければ**
 
 ([おさるのジョージ シーズン1 名探偵ジョージ](https://youtu.be/8m9NPQplnRg?si=XiTUM_LVH1ZOR9yi&t=172))
+
+---
+
+**All visitors will maintain an atmosphere of silence and respect at all times.**
+
+(the Tomb of the Unknown Soldier at Arlington National Cemetery in Arlington, Virginia)
