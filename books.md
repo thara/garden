@@ -20,3 +20,7 @@
 - [マルチテナントSaaSアーキテクチャの構築 - O'Reilly Japan](https://www.oreilly.co.jp/books/9784814401017/)
 
 - [ゼロから始めるLean言語入門 ― 手を動かして学ぶ形式数学ライブラリ開発 – 技術書出版と販売のラムダノート](https://www.lambdanote.com/products/leanbook)
+
+- [並行プログラミング入門 - O'Reilly Japan](https://www.oreilly.co.jp/books/9784873119595/)
+- [Async Rust - O'Reilly Japan](https://www.oreilly.co.jp/books/9784814401185/)
+- [詳解 Rustアトミック操作とロック - O'Reilly Japan](https://www.oreilly.co.jp/books/9784814400515/)
