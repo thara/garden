@@ -18,6 +18,10 @@
 - [Domain Expertise Has Always Been the Real Moat | Aaron Brethorst](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
 - [Building AI Products—Part I: Back-end Architecture](https://philcalcado.com/2024/12/14/building-ai-products-part-i.html)
 
+## Career
+
+- [中島聡が語る「AI大失業時代」の生存戦略 - YouTube](https://www.youtube.com/watch?v=fAqBsOBzBz8)
+
 ---
 
 TODO
