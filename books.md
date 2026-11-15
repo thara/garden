@@ -24,3 +24,7 @@
 - [並行プログラミング入門 - O'Reilly Japan](https://www.oreilly.co.jp/books/9784873119595/)
 - [Async Rust - O'Reilly Japan](https://www.oreilly.co.jp/books/9784814401185/)
 - [詳解 Rustアトミック操作とロック - O'Reilly Japan](https://www.oreilly.co.jp/books/9784814400515/)
+
+- [チームの力で組織を動かす | 技術評論社](https://gihyo.jp/book/2025/978-4-297-15064-8)
+    - https://fujii-yuji.net/2025/12/31/213025
+- [他者と働く 「わかりあえなさ」から始める組織論 | NewsPicksパブリッシング](https://publishing.newspicks.com/books/9784910063010)
