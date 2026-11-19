@@ -28,3 +28,6 @@
 - [チームの力で組織を動かす | 技術評論社](https://gihyo.jp/book/2025/978-4-297-15064-8)
     - https://fujii-yuji.net/2025/12/31/213025
 - [他者と働く 「わかりあえなさ」から始める組織論 | NewsPicksパブリッシング](https://publishing.newspicks.com/books/9784910063010)
+
+- [「ソフトウェア品質保証ガイド チームで顧客満足を実現するためのアプローチ・手法・技術」井芹洋輝 \[ＰＣ・理工科学書\] - KADOKAWA](https://www.kadokawa.co.jp/product/302607002896/)
+    - https://x.com/goyoki/status/2122977492780843301
