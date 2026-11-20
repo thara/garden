@@ -1,0 +1,5 @@
+- [Durable Execution Solutions | Temporal](https://temporal.io/)
+- [Restate | The Durable Runtime for your Agents and Backends](https://restate.dev/)
+- [Microsoft Orleans — Distributed applications for .NET](https://dotnet.github.io/orleans/)
+- [Cloudflare Durable Objects](https://developers.cloudflare.com/durable-objects/)
+- [DBOS | Durable Execution & Workflows on Postgres](https://www.dbos.dev/)
