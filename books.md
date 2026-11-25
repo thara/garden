@@ -31,3 +31,18 @@
 
 - [「ソフトウェア品質保証ガイド チームで顧客満足を実現するためのアプローチ・手法・技術」井芹洋輝 \[ＰＣ・理工科学書\] - KADOKAWA](https://www.kadokawa.co.jp/product/302607002896/)
     - https://x.com/goyoki/status/2122977492780843301
+
+- [新世代工学シリーズ システム工学 | オーム社](https://www.ohmsha.co.jp/book/9784274131677.html)
+- [システム制御工学シリーズ 22 マルチエージェントシステムの制御 | コロナ社](https://www.coronasha.co.jp/np/isbn/9784339033229/)
+
+- [製造現場の事故を防ぐ安全工学の考え方と実践 | オーム社](https://www.ohmsha.co.jp/book/9784274069154.html)
+
+- [確率工学シリーズ　信頼性の数理モデル　 ｜朝倉書店](https://www.asakura.co.jp/detail.php?book_code=27573)
+
+- [形式手法モデル理論アプローチ 情報システム開発の基礎 | 日科技連出版社](https://www.juse-p.co.jp/products/view/287)
+- [形式言語と有限オートマトン入門 - 例題を中心とした情報の離散数学 - | コロナ社](https://www.coronasha.co.jp/np/isbn/9784339023398/)
+
+- [よくわかる実験計画法 | 近代科学社](https://www.kindaikagaku.co.jp/book_list/detail/9784764910423/)
+- [ソフトウェアテスト技法ドリル【第2版】テスト設計の考え方と実際 | 日科技連出版社](https://www.juse-p.co.jp/products/view/934)
+- [品質管理と品質保証、信頼性の基礎 | 日科技連出版社](https://www.juse-p.co.jp/products/view/633)
+- [これでわかった！超実践品質工学」](https://tsuruzoh-qe.blogspot.com/2021/04/blog-post_25.html)
